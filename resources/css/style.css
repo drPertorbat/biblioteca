@@ -42,3 +42,18 @@
     background-color: #111;
     color: #4392F1
 }
+
+/* originals3 */
+.letter {
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.letter a {
+    float: right;
+    /* font-size: 1rem; */
+}
+
+.letter label {
+    font-weight: bold;
+}
