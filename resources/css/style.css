@@ -37,6 +37,10 @@
     text-decoration: none;
 }
   
+  
+img.portada {
+	border: 1px solid black;
+}  
 /* Change the link color to #111 (black) on hover */
 .header li a:hover {
     background-color: #111;
