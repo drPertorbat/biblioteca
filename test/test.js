@@ -9,6 +9,16 @@ $().ready(function(){
 
 });
 
+function generateLink(ed, title) {
+	var path = "llibres";
+	if(ed) {
+		path = ed.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^A-Z0-9]/ig, "-");
+	}
+	
+	var llibre = title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^A-Z0-9]/ig, "-") + ".html";
+	return "./" + path + "/" + llibre;
+}
+
 function init() {
 	 table = $('#example').DataTable( {
 	        data: data2,
@@ -37,8 +47,18 @@ function init() {
 	              data: 'any', 
 	              "defaultContent": "",
 	              width: "320px"  
-	            }       	            
+	            },
+	            {
+	            	data:null,
+	            	render: function (data, type, full, meta) {
+	            		if(data.portada && data.resum) {
+	            			return '<a href="' + generateLink(data.editorial, data.nom) + '">Fitxa</a>'
+	            		} else{
+	            			return "";
+	            		}
+	            	}
+	            }
 	          ],
-	         order: [[1,"asc", 2, "asc"]]
+	         order: [[0,"asc", 1, "asc"]]
 	 });
 }
