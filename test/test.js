@@ -16,7 +16,7 @@ function generateLink(ed, title) {
 	}
 	
 	var llibre = title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^A-Z0-9]/ig, "-") + ".html";
-	return "./" + path + "/" + llibre;
+	return "../" + path + "/" + llibre;
 }
 
 function init() {
@@ -35,7 +35,7 @@ function init() {
 	            { 
 	              data: 'nom',
 	              "defaultContent": "",
-	              width: "120px"
+	              width: "250px"
 	            },
 	            { data: 'autors',
             	"defaultContent": "",
@@ -46,7 +46,7 @@ function init() {
 	            { 
 	              data: 'any', 
 	              "defaultContent": "",
-	              width: "320px"  
+	              width: "120px"  
 	            },
 	            {
 	            	data:null,
