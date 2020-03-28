@@ -37,16 +37,16 @@ function init() {
 	              "defaultContent": "",
 	              width: "250px"
 	            },
-	            { data: 'autors',
+	            { data: 'autors[; ]',
             	"defaultContent": "",
 	              width: "250px" },
 	            { data: 'editorial',
             	  "defaultContent": "",
-	              width: "200px" },
+	              width: "120px" },
 	            { 
 	              data: 'any', 
 	              "defaultContent": "",
-	              width: "120px"  
+	              width: "80px"  
 	            },
 	            {
 	            	data:null,
