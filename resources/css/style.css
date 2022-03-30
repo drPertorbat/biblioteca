@@ -61,3 +61,25 @@ img.portada {
 .letter label {
     font-weight: bold;
 }
+
+/* grid */
+	
+.grid-portada {
+	height: 250px;
+	width: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.hide {
+	display: none;
+}
+
+.grid-info ul {
+	padding-left: 10px;
+}
+.grid-info li {
+    list-style: none;
+	font-size: 14px;
+}
