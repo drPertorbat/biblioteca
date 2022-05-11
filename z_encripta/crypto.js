@@ -54,7 +54,11 @@ function init(){
 
 	var full_text = [];
 	var line = "";
+	var w = window.innerWidth;
 	var max_char = 25;
+	if( w *0.8/40 < 25) {
+		max_char = Math.trunc(w *0.8/40);
+	}
 
 	var text_line = text.split(" ");
 
@@ -71,6 +75,7 @@ function init(){
 	  	line += " ";
 	 
 	}
+	full_text.push(line);
 	console.log(full_text);
 
 
