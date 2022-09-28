@@ -1,19 +1,26 @@
-
+const setTheme = theme => document.documentElement.className = theme;
 
 $().ready(function () {
 
 	console.log("started");
+	var textId = 0;
+	const queryString = window.location.search;
+	const urlParams = new URLSearchParams(queryString);
+	if(urlParams.has('text')){
+		textId = urlParams.get('text')
+		textId = parseInt(textId) || 0;
+	}
+	
 	console.log(jsonData);
-	text = load(0);
-	init();
+	json = load(textId);
+	
+	init(json);
 
 });
 
 
 function cypher(text, cypher) {
 	
-	
-	console.log(cypher);
 	var scramble = "";
 	for(var i = 0; i< text.length; i++){
 		var letter = text.toLowerCase()[i];
@@ -36,9 +43,6 @@ function generateCypher() {
 		var pos = getRandomInt(0, alphat.length); 
 		cypher += alphat.charAt(pos);
 		alphat = alphat.slice(0, pos) + alphat.slice(pos+1);
-
-		console.log(cypher);
-		console.log(alphat);
 	}
 
 	return cypher;
@@ -48,20 +52,9 @@ function getRandomInt(min, max) {
 	return Math.floor(Math.random() * (max - min)) + min;
 }
 
-function init(){
-	var key = generateCypher();
-	text = cypher(text.toUpperCase(), key);
-
-	var full_text = [];
-	var line = "";
-	var w = window.innerWidth;
-	var max_char = 25;
-	if( w *0.8/40 < 25) {
-		max_char = Math.trunc(w *0.8/40);
-	}
-
+function textToLines(text, max_char, full_text) {
 	var text_line = text.split(" ");
-
+	var line = "";
 	for(var i = 0; i < text_line.length; i++) {
 		var word = text_line[i];
 		if(line.length + word.length + 1 > max_char) {
@@ -76,7 +69,43 @@ function init(){
 	 
 	}
 	full_text.push(line);
-	console.log(full_text);
+}
+
+function init(json){
+	var text = normalizeText(json.text);
+	var title = normalizeText(json.title + " - " + json.author);
+	var key = generateCypher();
+	text = cypher(text.toUpperCase(), key);
+	title = cypher(title.toUpperCase(), key);
+	
+	var full_text = [];
+	var line = "";
+	var w = window.innerWidth;
+	var max_char = 25;
+	if( w *0.8/40 < 25) {
+		max_char = Math.trunc(w *0.8/40);
+	}
+
+//	var text_line = text.split(" ");
+//
+//	for(var i = 0; i < text_line.length; i++) {
+//		var word = text_line[i];
+//		if(line.length + word.length + 1 > max_char) {
+//	  		full_text.push(line);
+//	    	line = "";
+//	  	}
+//	 
+//	  	for(var j=0; j< word.length; j++){
+//	  		line += word[j];
+//	  	}
+//	  	line += " ";
+//	 
+//	}
+//	full_text.push(line);
+	textToLines(text, max_char, full_text);
+	textToLines(title, max_char, full_text);
+	
+	
 
 
 	for(var l=0; l<full_text.length; l++) {
@@ -108,9 +137,7 @@ function init(){
 
 	});
 
-	$( ".letter" ).keyup(function() {
-	  
-	  console.log("blur " + $(this).val());
+	$( ".letter" ).keyup(function() {	  
 	  if($(this).hasClass('letter')){
 	  	var letter = $(this).data("letter");
 	  	$('.letter_' + letter).val($(this).val());
@@ -119,15 +146,15 @@ function init(){
 	});
 }
 
-function load(id) {
-	var str = jsonData[id].text;
-	str = str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-	console.log(str);
-	return str;
-	// $.getJSON("text.json", function(json) {
-	//     console.log(json); // this will show the info it in firebug console
-	//     text = json.text;
 
-	//     init();
-	// });
+function normalizeText(text) {
+	return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function load(id) {
+	
+	if(jsonData.length <= id){
+		id = 0;
+	}
+	return jsonData[id];
 }
