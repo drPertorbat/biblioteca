@@ -1,6 +1,10 @@
 const setTheme = theme => document.documentElement.className = theme;
 
 $().ready(function () {
+	
+	$('.theme-button').click(function(){
+		setTheme($(this).data("theme"));		
+	});
 
 	console.log("started");
 	var textId = 0;
