@@ -28,6 +28,44 @@
 	.light .light-hide {
 		display: none;
 	}
+	
+	.container {
+		position: relative;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	@media only screen and (max-width: 600px) {
+		.container {
+			width: 100%;
+		}
+	}
+	
+	@media only screen and (min-width: 600px) {
+		.container {
+			width: 550px;
+		}
+	}
+	
+	@media only screen and (min-width: 768px) {
+		.container {
+			width: 760px;
+		}
+	}
+	
+	@media only screen and (min-width: 992px) {
+		container {
+			width: 960px;
+		}
+	}
+	
+	@media only screen and (min-width: 1200px) {
+		.container {
+			width: 1160px;
+		}
+	}
+	
+
 
 	body {
 		background: var(--bg-color);
@@ -37,8 +75,7 @@
 	}
 
 	#message {
-		width: 80%;
-	   	text-align: center;
+		text-align: center;
 	   	font-size: 32px;
 	   	margin: auto;
 	   	padding-top: 50px;
@@ -75,17 +112,22 @@
 
 	<body>
 		<div class="header">
-			<div></div>
-			<div>
-				<h1>Encriptat!</h1>
-				<h2>Podràs descobrir el text secret?</h2>
-			</div>
-			<div>
-				<button id="dark-button" class="icon theme-button dark-hide" data-theme="dark">Dark</button>
-				<button id="light-button" class="icon theme-button light-hide" data-theme="light" >Light</button>
+			<div clas="nav-header conatiner">
+			
+				<div></div>
+				<div class="title">
+					<h1>Encriptat!</h1>
+					<h2>Podràs descobrir el text secret?</h2>
+				</div>
+				<div class="config">
+					<button id="dark-button" class="icon theme-button dark-hide" data-theme="dark">Dark</button>
+					<button id="light-button" class="icon theme-button light-hide" data-theme="light" >Light</button>
+				</div>
 			</div>
 		</div>
-		<div id="message"></div>
+		<div class="container">
+			<div id="message"></div>
+		</div>
 		
 	
 	</body>

@@ -86,7 +86,7 @@ function init(json){
 	var line = "";
 	var w = window.innerWidth;
 	var max_char = 25;
-	if( w *0.8/40 < 25) {
+	if( w/40 < 25) {
 		max_char = Math.trunc(w *0.8/40);
 	}
 
