@@ -84,10 +84,11 @@ function init(json){
 	
 	var full_text = [];
 	var line = "";
-	var w = window.innerWidth;
+	var w = $('#message').width();
 	var max_char = 25;
 	if( w/40 < 25) {
-		max_char = Math.trunc(w *0.8/40);
+		max_char = Math.trunc(w/40);
+		console.log("W: " + w + "   " + "Maxchar: " + max_char);
 	}
 
 //	var text_line = text.split(" ");
