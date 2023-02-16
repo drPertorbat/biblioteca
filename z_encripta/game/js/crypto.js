@@ -30,23 +30,24 @@ $().ready(function () {
 		if(navigator.share){
 			navigator.share({
 				title: 'Juaga a Encriptat',
-				text: 'Ja has resolt l\'encriptat de la setmana?',
+				text: 'Ja has resolt l\'encriptat de la setmana? Jo sí!',
 				url: 'https://rucselectrics.itch.io/encriptat'
 			  }).then(() => {
-				console.log('Thanks for sharing!');
+				console.log('Gràcies per compartir!');
 			  })
 			  .catch(console.error);
 		} else {
 			console.log("no share available")
-			var text = 'Ja has resolt l\'encriptat de la setmana?\n\nhttps://rucselectrics.itch.io/encriptat';
+			var text = 'Ja has resolt l\'encriptat de la setmana? Jo sí!\n\nhttps://rucselectrics.itch.io/encriptat';
 			navigator.clipboard.writeText(text).then(
 				function(){
-					alert("Copied successfully"); 
+					showToast("Text copiat al porta-retalls :)"); 
 				})
 			  .catch(
-				 function() {
-					alert("Error"); 
-			  });
+				 function(e) {
+					showToast("No s'ha pogut copiar el text :(");
+					console.error(e);
+			  	});
 		}
 	});
 
@@ -144,4 +145,12 @@ function loadFileEncriptat(encriptat) {
 		binds(encriptat);
 		showCountDown(encriptat);
 	});
+}
+
+async function showToast(message){
+	$('.toast-body').html(message);
+	$('.toast').addClass("visible");
+
+	await new Promise(resolve => setTimeout(resolve, 2000));
+	$('.toast').removeClass("visible");
 }

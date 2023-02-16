@@ -34,6 +34,12 @@
     width: 4rem;
 }
 
+#share-button{ 
+    width: 10em;
+    text-align: center;
+    cursor: pointer;
+}
+
 .alerta{
     background-color: darkred;
     color: white;
@@ -204,4 +210,35 @@ input.error {
         font-size: large;
     }
 
+}
+
+.toast {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+    transform: translateY(100%);
+    opacity: 0;
+
+    transition:
+        opacity 500ms,
+        transform 500ms;
+}
+
+.toast.visible {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.toast-body {
+    margin: 28px;
+    padding: 20px 24px;
+
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background-color: var(--fg-color);
+    color: var(--bg-color);
+
+    border-radius: 4px;
 }

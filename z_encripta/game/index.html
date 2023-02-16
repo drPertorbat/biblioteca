@@ -24,14 +24,14 @@
 					<button id="alert1" class="icon alerta" style="display: none"
 						title="Alerta! La configuració del navegador no permet guardar partides">!</button>
 					<button id="dark-button" class="icon theme-button dark-hide" data-theme="dark">Fosc</button>
-					<button id="light-button" class="icon theme-button light-hide" data-theme="light" >Clar</button>
-					<button id="share-button" class="icon" >&#128483</button>
+					<button id="light-button" class="icon theme-button light-hide" data-theme="light" >Clar</button>					
 					<button id="reset-button" class="icon">Neteja</button>
 					<button id="help-button" class="icon">?</button>
 				</div>
 			</div>
 		</div>
 		<div class="container">
+			<div id="solved"></div>
 			<div id="message"></div>
 		</div>
 		
@@ -54,6 +54,7 @@
 				<div class="modal-resume">
 					<p></p>
 				</div>
+				<div><p id="share-button" class="icon">COMPARTIR</p></div>
 			</div>
 		</div>
 
@@ -75,6 +76,10 @@
 
 		</div>
 	
+		<div class="toast" id="toast">
+			<div class="toast-body">
+			</div>
+		</div>
 	</body>
 
 </html>
