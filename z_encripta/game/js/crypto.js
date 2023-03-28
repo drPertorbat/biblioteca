@@ -92,7 +92,6 @@ $().ready(function () {
 
 	//generar llista extras
 	extra.forEach(e => {
-		console.log(e);
 		$('#extra-modal ul#extra-list').append("<li class='extra-item' data-target='"+ e.id + "'>" + e.title + "</li>");	
 	});
 	$('.extra-item').click(function(){
@@ -100,6 +99,7 @@ $().ready(function () {
 		var e = extra.find(x => x.id === currentJsonId);
 
 		$('.item-list h4').text(e.title);
+		$('.item-list p.description').text(e.desc);
 		
 		loadFile(e.url, function(data){
 			var decodedData = LZString.decompressFromEncodedURIComponent(data);
