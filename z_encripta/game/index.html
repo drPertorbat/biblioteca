@@ -8,6 +8,7 @@
 	<script src="js/crypto.js" charset="utf-8"></script>
 	<script src="js/lz-string.min.js" charset="UTF-8"></script>
 	<script src="js/encriptat.js" charset="utf-8"></script>
+	<script src="js/extra.js"  charset="utf-8"></script>
 </head>
 
 	<body>
@@ -18,7 +19,8 @@
 				<div class="title">
 					<h1>Encriptat!</h1>
 					<h2>Podràs descobrir el text secret?</h2>					
-					<h3 id="countDownBanner" class="inverted">Et queda 1 dia</h3>
+					<h3 id="countDownBanner" class="inverted setmanal">Et queda 1 dia</h3>
+					<h3 id="backToNormalBanner" class="inverted extra" style="display:none;">Tornar a l'Encriptat setmanal</h3>
 				</div>
 				<div class="config">
 					<button id="alert1" class="icon alerta" style="display: none"
@@ -27,18 +29,18 @@
 					<button id="light-button" class="icon theme-button light-hide" data-theme="light" >Clar</button>					
 					<button id="reset-button" class="icon">Neteja</button>
 					<button id="help-button" class="icon">?</button>
+					<button id="extra-button" class="icon">Extra!</button>
 				</div>
 			</div>
 		</div>
-		<div class="container">
-			<div id="solved"></div>
+		<div class="container">			
 			<div id="message"></div>
 		</div>
 		
 		<div id="dialog-win" class="modal">
 			<div class="modal-content">
 				<span class="close">&times;</span>
-				<h3 class="title">Encriptat resolt!</h3>
+				<h3 class="title">Encriptat resolt!</h3>				
 				<div class="modal-text">
 					<p></p>
 				</div>
@@ -74,6 +76,26 @@
 				<p>Fixeu-vos en les paraules més curtes, lletres repetides  i combinacions particulars de lletres.</p>
 			</div>
 
+		</div>
+
+		<div id="extra-modal" class="modal">
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<h3>Encriptats extra</h3>
+				<div class="extra-list">
+					<h4>Encriptats temàtics</h4>
+					<p>Tria el tema que més t'agradi i hi trobaràs un bon grapats d'encriptats extra.</p>
+					<p>Alguns ja han sortit com a encriptat de la setmana, d'altras són innèdits.</p>
+					<ul id="extra-list" ></ul>
+				</div>
+				<div class="item-list">					
+					<h4></h4>
+					<p>Tria un dels encriptats de la llista i comença a resoldre'l. 
+						Però recorda, no es guarda el progrés, si tanques el joc, tornaràs a l'encriptat de la setmana.</p>
+					<ul id="item-list"></ul>
+					<button id="back-button" class="icon">&larr;</button>
+				</div>
+			</div>
 		</div>
 	
 		<div class="toast" id="toast">

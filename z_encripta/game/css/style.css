@@ -98,6 +98,10 @@ h1,h2 {
     color: var(--fg-color);
 }
 
+#backToNormalBanner {
+    cursor: pointer;
+}
+
 #message {
     text-align: center;
        font-size: 32px;
@@ -211,6 +215,33 @@ input.error {
     }
 
 }
+
+#extra-modal li{
+    list-style: none;
+    border: 1px solid var(--fg-color);
+    padding: 5px;
+    width: 250px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#extra-modal li.solved {
+    color: var(--second-color);
+    border: 1px solid var(--second-color);
+}
+
+li.solved::after {
+    content: "  \2713";
+}
+
+#extra-modal li:hover{
+    color:var(--bg-color);
+    background-color: var(--fg-color);
+    border-color: var(--bg-color);
+    
+}
+
+
 
 .toast {
     position: fixed;

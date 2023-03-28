@@ -1,6 +1,9 @@
 const setTheme = theme => document.documentElement.className = theme;
 const solution = {};
 var storage = true;
+var special = false;
+var currentJsonId, selectedJsonId, selectedExtra; //per guardar quin especial està seleccionat
+
 
 $().ready(function () {
 	
@@ -25,9 +28,14 @@ $().ready(function () {
 		$('#dialog-help').show();
 	});
 	
+	$('#back-button').click(function(){
+		$('.extra-list').show();
+		$('.item-list').hide();
+	});
 
 	$('#share-button').click(function(){
-		if(navigator.share){
+		if(false){
+			//no es pot executar es de l'iframe de itch.io
 			navigator.share({
 				title: 'Juaga a Encriptat',
 				text: 'Ja has resolt l\'encriptat de la setmana? Jo sí!',
@@ -37,7 +45,6 @@ $().ready(function () {
 			  })
 			  .catch(console.error);
 		} else {
-			console.log("no share available")
 			var text = 'Ja has resolt l\'encriptat de la setmana? Jo sí!\n\nhttps://rucselectrics.itch.io/encriptat';
 			navigator.clipboard.writeText(text).then(
 				function(){
@@ -50,6 +57,19 @@ $().ready(function () {
 			  	});
 		}
 	});
+
+	$('#backToNormalBanner').click(function(){
+		document.location.href = document.location.href;
+	});
+
+	$('#extra-button').click(function(){
+		//obrir modal extra
+		$('.extra-list').show();
+		$('.item-list').hide();
+		$('#extra-modal').show();
+	});
+
+	
 
 	var encriptat = new Encriptat(storage);
 	$('#reset-button').click(function(){
@@ -70,6 +90,25 @@ $().ready(function () {
 		$('.modal').hide();
 	});
 
+	//generar llista extras
+	extra.forEach(e => {
+		console.log(e);
+		$('#extra-modal ul#extra-list').append("<li class='extra-item' data-target='"+ e.id + "'>" + e.title + "</li>");	
+	});
+	$('.extra-item').click(function(){
+		currentJsonId = $(this).data("target");
+		var e = extra.find(x => x.id === currentJsonId);
+
+		$('.item-list h4').text(e.title);
+		
+		loadFile(e.url, function(data){
+			var decodedData = LZString.decompressFromEncodedURIComponent(data);
+			decodedData = decodedData.replaceAll("’", "'");
+			displayList(JSON.parse(decodedData));
+		});
+		
+	});
+
 });
 
 function showCountDown(encriptat) {
@@ -78,10 +117,7 @@ function showCountDown(encriptat) {
 		$('#countDownBanner').html("Et queda 1 dia");	
 	} else {
 		$('#countDownBanner').html("Et queden " + daysLeft + " dies");	
-	}
-
-
-	
+	}	
 }
 
 
@@ -104,6 +140,10 @@ function binds(encriptat) {
 			encriptat.addLetter(letter, $(this).val());
 			encriptat.checkConflicts();
 			if(encriptat.validateSolution()){
+				if(storage && special) {
+					addExtraSolved(selectedJsonId, selectedExtra);
+				}
+				//if special && storage --> save special solved
 				encriptat.showDialogWin();				
 			}
 		}
@@ -147,6 +187,84 @@ function loadFileEncriptat(encriptat) {
 	});
 }
 
+function loadFile(url, f) {
+	$.ajax({
+		url: url,
+	})
+	.done(f);
+}
+
+function displayList(currentJson) {
+	$('#extra-modal ul#item-list').html("");
+	var map = getMapExtraSolved();
+	currentJson.forEach(function(e,i){
+		var solved = false;
+		if(map[currentJsonId]) {
+			if(map[currentJsonId].indexOf(i) != -1) {
+				solved = true;
+			}
+		}
+		var solvedClass = solved ? "solved": ""
+		$('#extra-modal ul#item-list').append("<li class='extra-encriptat " + solvedClass + "' data-target='" +  i + "' >" + i + "</li>");	
+	});
+
+	$('.extra-encriptat').click(function(){
+		selectedExtra = $(this).data("target");
+		selectedJsonId = currentJsonId;		
+		loadExtraEncriptat(currentJson[selectedExtra]);
+	});
+
+	$('.extra-list').hide();
+	$('.item-list').show();
+	
+}
+
+function loadExtraEncriptat(e) {
+	$("#message").html("");
+	ep = new Encriptat(false);
+	ep.fromJson(e);
+	ep.display();
+	binds(ep);
+	special = true;
+	$('#extra-modal').hide();
+	
+	$("#countDownBanner").hide();
+	$("#backToNormalBanner").show();
+
+
+	$('#reset-button').unbind("click").click(function(){
+		ep.cleanSolution();
+		$( ".letter" ).val("");	
+	});
+}
+
+function getExtraSolved(id){
+	var map = getMapExtraSolved();
+	var list = map[id];
+	if(!list) {
+		list = [];
+	}
+	return list;
+}
+
+function getMapExtraSolved() {
+	var mapSolved = localStorage.getItem("mapSolved");
+	if(!mapSolved){
+		return {};
+	} else {
+		return JSON.parse(mapSolved);
+	}
+}
+
+function addExtraSolved(jsonId, extraId) {
+	var map = getMapExtraSolved();
+	var list = getExtraSolved(jsonId);
+	if(list.indexOf(extraId) == -1)
+		list.push(extraId);
+	map[jsonId] = list;
+	localStorage.mapSolved = JSON.stringify(map);
+}
+
 async function showToast(message){
 	$('.toast-body').html(message);
 	$('.toast').addClass("visible");
@@ -154,3 +272,4 @@ async function showToast(message){
 	await new Promise(resolve => setTimeout(resolve, 2000));
 	$('.toast').removeClass("visible");
 }
+
