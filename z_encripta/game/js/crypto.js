@@ -27,6 +27,18 @@ $().ready(function () {
 	$('#help-button').click(function(){
 		$('#dialog-help').show();
 	});
+
+	$('#conf-button').click(function(){
+		if(storage){
+			let showTitle = localStorage.getItem("showTitle", false);
+			if(showTitle === "false"){
+				localStorage.setItem("showTitle", "true");
+			} else {
+				localStorage.setItem("showTitle", "false");
+			}
+			encriptat.changeShowTitle();
+		}
+	});
 	
 	$('#back-button').click(function(){
 		$('.extra-list').show();
@@ -45,7 +57,13 @@ $().ready(function () {
 			  })
 			  .catch(console.error);
 		} else {
-			var text = 'Ja has resolt l\'encriptat de la setmana? Jo sí!\n\nhttps://rucselectrics.itch.io/encriptat';
+			var text = '';
+			if (special){
+				var e = extra.find(x => x.id === currentJsonId);				
+				text = '#Encriptat especial resolt. ' + e.title + ' ' + selectedExtra + '\n\nhttps://rucselectrics.itch.io/encriptat';
+			} else {
+				text = '#Encriptat setmanal resolt. Setmana /' + weekNumber() + '\n\nhttps://rucselectrics.itch.io/encriptat';
+			}
 			navigator.clipboard.writeText(text).then(
 				function(){
 					showToast("Text copiat al porta-retalls :)"); 
@@ -222,6 +240,7 @@ function displayList(currentJson) {
 function loadExtraEncriptat(e) {
 	$("#message").html("");
 	ep = new Encriptat(false);
+	ep.setShowTitle(false);
 	ep.fromJson(e);
 	ep.display();
 	binds(ep);
@@ -263,6 +282,15 @@ function addExtraSolved(jsonId, extraId) {
 		list.push(extraId);
 	map[jsonId] = list;
 	localStorage.mapSolved = JSON.stringify(map);
+}
+
+function weekNumber() {
+	currentDate = new Date();
+    startDate = new Date(currentDate.getFullYear(), 0, 1);
+    var days = Math.floor((currentDate - startDate) /
+        (24 * 60 * 60 * 1000));
+         
+    return Math.ceil(days / 7);
 }
 
 async function showToast(message){

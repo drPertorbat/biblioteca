@@ -14,17 +14,23 @@ class Encriptat {
     #url;
     #key;
     storage;
+    max_char;
+    showTitle;
     
 
     constructor(storage){
         this.storage = storage;
         this.solution = {};
+        this.showTitle = true;
         //this.#text = "";
         //this.#title = "";
         //this.#author = "";
         //this.#key = "";
     }   
 
+    setShowTitle(show) {
+        this.showTitle = show;
+    }
 
 
     fromJson(json){
@@ -172,17 +178,17 @@ class Encriptat {
         var full_text = [];
 	    var text;
 	    var w = $('#message').width();
-	    var max_char = 25;
+	    this.max_char = 25;
         var letter_width = 40;
         if(w <= 600) {
             letter_width = 25;
         }
         if( w/letter_width < 25) {
-            max_char = Math.trunc(w/letter_width);
+            this.max_char = Math.trunc(w/letter_width);
         }
 
-        this.textToLines(this.textCypher, max_char, full_text);
-        this.textToLines(this.titleCypher, max_char, full_text);
+        this.textToLines(this.textCypher, this.max_char, full_text);
+        //this.textToLines(this.titleCypher, max_char, full_text);
 	
         for(var l=0; l<full_text.length; l++) {
             text = full_text[l];
@@ -199,6 +205,47 @@ class Encriptat {
                 
             }
             $('#message').append($htmlLine);
+        }
+        //let showTitle = localStorage.getItem("showTitle", "false");
+        if(this.showTitle){
+            this.displayTitle();
+        }
+
+    }
+
+    displayTitle() {
+        var full_text_title = [];
+        var text;
+        this.textToLines(this.titleCypher, this.max_char, full_text_title);
+	
+        for(var l=0; l<full_text_title.length; l++) {
+            text = full_text_title[l];
+            var $htmlLine = $('<div class="line title"></div>');
+            for (var i = 0; i<text.length; i++) {
+                var letter = text[i];
+                
+                if(letter.toUpperCase() != letter.toLowerCase()){
+                    $htmlLine.append('<div><input class=" letter letter_' + text[i] + '" value="" maxlength="1"  data-letter="' + text[i] + '"/><br>' + text[i] + '</div>');	
+                } else {
+                    //si no es lletra
+                    $htmlLine.append('<div><input class="no-letter" value="' + text[i] + '" readonly disabled/><br> </div>');
+                }
+                
+            }
+            $('#message').append($htmlLine);
+        }
+    }
+
+    hideTitle(){
+        $('#message .title').remove();
+    }
+
+    changeShowTitle() {
+        let showTitle = localStorage.getItem("showTitle", false);
+        if(showTitle === "true"){
+            this.displayTitle();
+        } else {
+            this.hideTitle();
         }
     }
 
