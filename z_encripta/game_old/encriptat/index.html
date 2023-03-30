@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html id="ca" class="dark" >
+<head>
+	<meta charset="UTF-8">
+	<title>Encriptat</title>
+    <link rel="stylesheet" href="css/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="js/crypto.js" charset="utf-8"></script>
+	<script src="js/lz-string.min.js" charset="UTF-8"></script>
+	<script src="js/encriptat.js" charset="utf-8"></script>
+</head>
+
+	<body>
+		<div class="header">
+			<div class="nav-header container">
+			
+				<div></div>
+				<div class="title">
+					<h1>Encriptat!</h1>
+					<h2>Podràs descobrir el text secret?</h2>					
+					<h3 id="countDownBanner" class="inverted">Et queda 1 dia</h3>
+				</div>
+				<div class="config">
+					<button id="alert1" class="icon alerta" style="display: none"
+						title="Alerta! La configuració del navegador no permet guardar partides">!</button>
+					<button id="dark-button" class="icon theme-button dark-hide" data-theme="dark">Fosc</button>
+					<button id="light-button" class="icon theme-button light-hide" data-theme="light" >Clar</button>					
+					<button id="reset-button" class="icon">Neteja</button>
+					<button id="help-button" class="icon">?</button>
+				</div>
+			</div>
+		</div>
+		<div class="container">			
+			<div id="message"></div>
+		</div>
+		
+		<div id="dialog-win" class="modal">
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<h3 class="title">Encriptat resolt!</h3>				
+				<div class="modal-text">
+					<p></p>
+				</div>
+				<div class="left-banner" >
+					<img src="" alt="" width="100" />
+				</div>
+				<div class="modal-info" >
+					<p class="book-title"></p>
+					<p class="author"></p>
+					<p class="press"></p>
+					<p class="translator"></p>
+				</div>
+				<div class="modal-resume">
+					<p></p>
+				</div>
+				<div><p id="share-button" class="icon">COMPARTIR</p></div>
+			</div>
+		</div>
+
+		<div id="dialog-help" class="modal">
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<h3>Què és i com funciona l'Encriptat?</h3>
+				<p>L'objectiu del joc és desxifrar el text ocult entre aquest garbuix de lletres.</p>
+				<p>Normalment el text serà d'alguna obra fantàstica.</p>
+				<p>Cada lletra s'ha substituït per una de diferent. L'únic que haureu de fer és seleccionar una de les caselles i escriure-hi la lletra que creieu que hi va. Totes les caselles amb la mateixa lletra s'ompliran automàticament.
+					Si heu entrat totes les lletres correctament, saltarà un missatge d'enhorabona. Si no, és que hi ha alguna lletra errònia.</p>
+				<p>Per facilitar el joc, s'han eliminat tots els accents i dièresis.</p>
+				<h3>Trucs per resoldre l'Encriptat</h3>
+				<p>No repetiu cap lletra, cada lletra, s'ha substituït per una altra lletra diferent, però sempre la mateixa.</p>
+				<p>Al final del text trobareu el títol de l'obra i l'autor. Potser podeu descobrir qui és més fàcilment.</p>
+				<p>Les lletres més habituals en català són: E, A, I, S. Però no sempre es respectarà aquesta estadística.</p>
+				<p>Fixeu-vos en les paraules més curtes, lletres repetides  i combinacions particulars de lletres.</p>
+			</div>
+
+		</div>
+	
+		<div class="toast" id="toast">
+			<div class="toast-body">
+			</div>
+		</div>
+	</body>
+
+</html>
