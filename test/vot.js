@@ -15,8 +15,7 @@ $().ready(function(){
 	$('.my-star').touchstart(rate);
 	$('.my-star').touchend(function(){
 		vota(rating);
-		displayNext();		
-		prepareNext();
+		nextBook();
 	});
 });
 
