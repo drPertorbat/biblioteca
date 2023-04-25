@@ -24,29 +24,36 @@
     			display: none;
     		}
     		
-    		/*set the default color of the stars*/
-			.star-rating{
-			    color: #bebebe;
-			    font-size:2em;
-			}
-			/*create the star*/
-			.my-star::before{
-			    content:"\002605";
-			}
-			/*remove the default style (italic) of the star*/
-			.my-star{
-			    font-style: unset !important;
-			}
-			/*set active star color*/
-			.is-active{
-			    color:#fb8900;
-			}
-			/*set color on hover*/
-			@media (hover: hover) {
-				.my-star:not(.is-active):hover{
-				    color: #fb8900;
+    		.slider {
+/* 				position: absolute; */
+/* 				top: 50%; */
+/* 				left: 50%; */
+/* 				transform: translate(-50%,-50%); */
+/* 				width: 500px; */
+/* 				height: 60px; */
+				padding: 30px;
+/* 				padding-left: 40px; */
+				background: #fcfcfc;
+				border-radius: 20px;
+				display: flex;
+				align-items: center;
+/* 				box-shadow: 0px 15px 40px #7E6D5766; */
 				}
-			}
+				.slider label {
+				font-size: 24px;
+				font-weight: 400;
+				font-family: Open Sans;
+				padding-left: 10px;
+				color: black;
+				}
+				.slider input[type="range"] {
+				width: 420px;
+				height: 2px;
+				background: black;
+				border: none;
+				outline: none;
+				}
+    		
     	</style>
         <div class="header">
             <div class="title">La biblioteca dels Rucs Elèctrics</div>
@@ -91,14 +98,16 @@
 	    	        		</div>
 	                	</div>
     	        		<div><button id="next">NEXT</button></div>
-    	        		<div>
-    	        			<p class="star-rating">
-							    <i class="my-star star-1" data-star="1"></i>
-							    <i class="my-star star-2" data-star="2"></i>
-							    <i class="my-star star-3" data-star="3"></i>
-							    <i class="my-star star-4" data-star="4"></i>
-							    <i class="my-star star-5" data-star="5"></i>
-							</p>
+    	        		<div class="slider">
+    	        			<input type="range" min="1" max="5" value="1" class="slider" id="myRange" list="ratelist">
+    	        			<datalist id="ratelist">
+    	        				<option>1</option>
+    	        				<option>2</option>
+    	        				<option>3</option>
+    	        				<option>4</option>
+    	        				<option>5</option>
+    	        				
+    	        			</datalist>
 						</div>
            	 		</div>
            	 		

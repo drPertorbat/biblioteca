@@ -8,15 +8,16 @@ $().ready(function(){
 	$('.my-star').mouseover(rate);
 	$('.my-star').click(function(){
 		vota(rating);
-		displayNext();		
-		prepareNext();
-	});
-	
-	$('.my-star').touchstart(rate);
-	$('.my-star').touchend(function(){
-		vota(rating);
+//		displayNext();		
+//		prepareNext();
 		nextBook();
 	});
+	
+//	$('.my-star').touchstart(rate);
+//	$('.my-star').touchend(function(){
+//		vota(rating);
+//		nextBook();
+//	});
 });
 
 

@@ -87,14 +87,19 @@ img.portada {
 /* vot */
 
 .vot-portada {
-	height: 245px;
-	width: 245px;
+/* 	height: 245px; */
+	width: 150px;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
+	margin: auto;
 }
 
 .vot-portada img{
-	max-width: 245px;
-	max-height: 245px;
+/* 	max-width: 245px; */
+/* 	max-height: 245px; */
+}
+
+.current .grid-info {
+	text-align: center;
 }
