@@ -4,10 +4,17 @@ $().ready(function(){
 	nextBook();	
 	$("#next").click(nextBook);
 	
-	$('#vote').click(function() {
-		if($('#myRange')){
-			rating = $('#myRange').val();
-		}
+	$('#voteStar').click(function() {
+		
+		vota(rating);
+		nextBook();
+		
+	});
+	
+	$('#voteSlide').click(function() {
+		
+		rating = $('#myRange').val();
+		
 		
 		vota(rating);
 		nextBook();
@@ -40,7 +47,7 @@ $().ready(function(){
 
 function nextBook() {
 //	$('.my-star').removeClass("is-active");
-	rating = 0;
+//	rating = 0;
 	
 	displayNext();
 	
