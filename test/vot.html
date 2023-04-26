@@ -41,12 +41,12 @@
 			.is-active{
 			    color:#fb8900;
 			}
-			/*set color on hover*/
-			@media (hover: hover) {
-				.my-star:not(.is-active):hover{
-				    color: #fb8900;
-				}
-			}
+/* 			/*set color on hover*/ */
+/* 			@media (hover: hover) { */
+/* 				.my-star:not(.is-active):hover{ */
+/* 				    color: #fb8900; */
+/* 				} */
+/* 			} */
     	</style>
         <div class="header">
             <div class="title">La biblioteca dels Rucs Elèctrics</div>
@@ -90,8 +90,13 @@
 		            			<img src="https://drpertorbat.github.io/biblioteca/resources/img/hipermatrònic,-l'hiperbreu-que-va-sorgir-de-l'espai-profund(orciny-press).jpg"  style="max-width: 100%" class="portada">
 	    	        		</div>
 	                	</div>
-    	        		<div><button id="next">NEXT</button></div>
-    	        		<div>
+	        			<div style="margin-top: 10px;">
+							<button id="next" style="width: 110px;" type="button"
+								class="btn btn-danger">NO LLEGIT</button>
+							<button id="vote" style="float: right; width: 110px;"
+								type="button" class="btn btn-success">VOTA</button>
+						</div>
+    	        		<div style="text-align: center;">
     	        			<p class="star-rating">
 							    <i class="my-star star-1" data-star="1"></i>
 							    <i class="my-star star-2" data-star="2"></i>
@@ -100,6 +105,7 @@
 							    <i class="my-star star-5" data-star="5"></i>
 							</p>
 						</div>
+						<div style="text-align: center;"><label id="rangeVal"></label></div>
            	 		</div>
            	 		
             	</div>		

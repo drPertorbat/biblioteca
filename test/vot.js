@@ -4,25 +4,42 @@ $().ready(function(){
 	nextBook();	
 	$("#next").click(nextBook);
 	
-	$('.my-star').mouseenter(rate);
-	$('.my-star').mouseover(rate);
-	$('.my-star').click(function(){
+	$('#vote').click(function() {
+		if($('#myRange')){
+			rating = $('#myRange').val();
+		}
+		
 		vota(rating);
-//		displayNext();		
-//		prepareNext();
 		nextBook();
+		
 	});
 	
-//	$('.my-star').touchstart(rate);
-//	$('.my-star').touchend(function(){
-//		vota(rating);
+	if($('#myRange')){
+		$('#myRange').on('input', function () {
+			$('#rangeVal').text($(this).val());
+		});
+	}
+	
+	
+//	$('.my-star').mouseenter(rate);
+//	$('.my-star').mouseover(rate);
+//	$('.my-star').click(function(){
+//		rate();
+////		displayNext();		
+////		prepareNext();
 //		nextBook();
 //	});
+	
+//	$('.my-star').touchstart(rate);
+	$('.my-star').click(function() {
+		rate($(this));
+		$('#rangeVal').text(rating);
+	});
 });
 
 
 function nextBook() {
-	$('.my-star').removeClass("is-active");
+//	$('.my-star').removeClass("is-active");
 	rating = 0;
 	
 	displayNext();
@@ -94,9 +111,9 @@ function vota(val) {
     
 }
 
-function rate(){
+function rate($this){
 
-	rating = $(this).data("star");
+	rating = $this.data("star");
 	$('.my-star').each(function(i, e){
 		if(i<rating) {
 			$(e).addClass("is-active");
@@ -104,6 +121,8 @@ function rate(){
 			$(e).removeClass("is-active");
 		}
 	});
+	
+	console.log("Rate: " + rating);
 }
 
 /**
