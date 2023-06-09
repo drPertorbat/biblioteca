@@ -1,20 +1,20 @@
 <html>
     <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-        <title>La biblioteca dels Rucs Elèctrics</title>
+        <title>Vota el millor fantàstic en català</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Llista ordenada d'obres originals de ciènca-ficció en català">
-  		<meta name="keywords" content="llibre, ciència-ficció, català, Rucs Elèctrics, biblioteca">
+        <meta name="description" content="Vota les millors obres de ciènca-ficció i fantasia en català">
+  		<meta name="keywords" content="llibre, ciència-ficció, fantasia, fantàstic, català, Rucs Elèctrics, biblioteca">
         <meta property="og:title" content="La biblioteca dels Rucs Elèctrics - Originals">
-  		<meta property="og:description" content="Llista ordenada d'obres originals de ciènca-ficció en català">
-		<meta property="og:url" content="https://drpertorbat.github.io/biblioteca/originals.html">
+  		<meta property="og:description" content="Vota les millors obres de ciènca-ficció i fantasia en català">
+		<meta property="og:url" content="https://drpertorbat.github.io/biblioteca/millor-fantastic/votacions.html">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<script src="https://code.jquery.com/jquery-3.3.1.js" ></script>
         <script  src="../resources/js/vot.js" ></script>
-        <script  src="../resources/data/candidates.js" ></script>
+        <script  src="../resources/data/candidates2.js" ></script>
         <link href="https://fonts.googleapis.com/css?family=Play:400,700&display=swap" rel="stylesheet"/>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
-        <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
         <link rel="stylesheet" href="../resources/css/style.css"/>
         
     </head>
@@ -24,31 +24,24 @@
     			display: none;
     		}
     		
-    		.slider {
-				padding: 30px;
-				background: #fcfcfc;
-				border-radius: 20px;
-				display: flex;
-				align-items: center;
+    		/*set the default color of the stars*/
+			.star-rating{
+			    color: #bebebe;
+			    font-size:2em;
 			}
-			
-			.slider input[type="range"] {
-				width: 420px;
-				height: 2px;
-				background: black;
-				border: none;
-				outline: none;
+			/*create the star*/
+			.my-star::before{
+			    content:"\002605";
 			}
-			
-			.slider input[type="range"]::-webkit-slider-thumb {
-			  -webkit-appearance: none; /* Override default look */
-			  appearance: none;
-			  width: 25px; /* Set a specific slider handle width */
-			  height: 25px; /* Slider handle height */
-			  background: #04AA6D; /* Green background */
-			  cursor: pointer; /* Cursor on hover */
+			/*remove the default style (italic) of the star*/
+			.my-star{
+			    font-style: unset !important;
 			}
-    		
+			/*set active star color*/
+			.is-active{
+			    color:#fb8900;
+			}
+
     	</style>
         <div class="header">
             <div class="title">La biblioteca dels Rucs Elèctrics</div>
@@ -62,8 +55,12 @@
             </ul>
         </div>
         <div class="container">
-			<h1 class="" style="margin: 0.5em 0">Vota el millor fantàstic en català</h1>
-  			<div id="startDiv" style="text-align: center;">
+			<h1 class="" style="margin: 0.5em 0; text-align: center">Vota el millor fantàstic en català</h1>
+			<div style="margin: 0.5em 0; text-align: center"> 
+				<p>Ajuda'ns a escollir les millors obres del fantàstic català i a fer un sistema de recomanacions per a tots els gustos</p>
+			</div>
+			
+			<div id="startDiv" style="text-align: center;">
 				<button id="startBtn" type="button" class="btn btn-success">Comença el joc</button>
 			</div>
             <div id="puntTop" class="lletres" style="display: none;">
@@ -72,44 +69,43 @@
 	                	<div class="current">
 	                		<div class="grid-info">
 			                	<ul>
-			                		<li id="li-title"><b>Vapor Negre. Barcelona steampunk 1911</b></li>
-			                		<li id="li-author"><b>Diversos autors   </b></li>
-			                        <li id="li-publisher">Crims.cat (2023)</li>
+			                		<li id="li-title"><b></b></li>
+			                		<li id="li-author"><b></b></li>
+			                        <li id="li-publisher"></li>
 			                	</ul>
 		                        
 		                	</div>
 		            		<div id="image" class="vot-portada">
-		            			<img src="https://drpertorbat.github.io/biblioteca/resources/img/hipermatrònic,-l'hiperbreu-que-va-sorgir-de-l'espai-profund(orciny-press).jpg"  style="max-width: 100%" class="portada">
+		            			<img src=""  style="max-width: 100%" class="portada">
 	    	        		</div>
 	                	</div>
 	                	<div class="next">
 		                	<div class="grid-info">
 			                	<ul>
-			                		<li id="li-title"><b>Vapor Negre. Barcelona steampunk 1911</b></li>
-			                		<li id="li-author"><b>Diversos autors   </b></li>
-			                        <li id="li-publisher">Crims.cat (2023)</li>
+			                		<li id="li-title"><b></b></li>
+			                		<li id="li-author"><b></b></li>
+			                        <li id="li-publisher"></li>
 			                	</ul>
 		                        
 		                	</div>
 		            		<div id="image" class="vot-portada">
-		            			<img src="https://drpertorbat.github.io/biblioteca/resources/img/hipermatrònic,-l'hiperbreu-que-va-sorgir-de-l'espai-profund(orciny-press).jpg"  style="max-width: 100%" class="portada">
+		            			<img src=""  style="max-width: 100%" class="portada">
 	    	        		</div>
 	                	</div>
-						<div style="margin-top: 10px;">
+	        			<div style="margin-top: 10px;">
 							<button id="next" style="width: 110px;" type="button"
 								class="btn btn-danger">NO LLEGIT</button>
-							<button id="voteSlide" style="float: right; width: 110px;"
+							<button id="voteStar" style="float: right; width: 110px;"
 								type="button" class="btn btn-success">VOTA</button>
 						</div>
-						<div class="slider">
-    	        			<input type="range" min="1" max="5" value="1" step="0.5" class="slider" id="myRange" list="ratelist">
-    	        			<datalist id="ratelist">
-    	        				<option>1</option>
-    	        				<option>2</option>
-    	        				<option>3</option>
-    	        				<option>4</option>
-    	        				<option>5</option>    	        				
-    	        			</datalist>    	        			
+    	        		<div style="text-align: center;">
+    	        			<p class="star-rating">
+							    <i class="my-star star-1" data-star="1"></i>
+							    <i class="my-star star-2" data-star="2"></i>
+							    <i class="my-star star-3" data-star="3"></i>
+							    <i class="my-star star-4" data-star="4"></i>
+							    <i class="my-star star-5" data-star="5"></i>
+							</p>
 						</div>
 						<div style="text-align: center;"><label id="rangeVal"></label></div>
            	 		</div>

@@ -10,8 +10,8 @@
   		<meta property="og:description" content="Llista ordenada d'obres originals de ciènca-ficció en català">
 		<meta property="og:url" content="https://drpertorbat.github.io/biblioteca/originals.html">
 		<script src="https://code.jquery.com/jquery-3.3.1.js" ></script>
-        <script  src="./vot.js" ></script>
-        <script  src="../resources/data/candidates.js" ></script>
+        <script  src="../resources/js/vot.js" ></script>
+        <script  src="../resources/data/candidates2.js" ></script>
         <link href="https://fonts.googleapis.com/css?family=Play:400,700&display=swap" rel="stylesheet"/>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
         <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
@@ -41,12 +41,7 @@
 			.is-active{
 			    color:#fb8900;
 			}
-/* 			/*set color on hover*/ */
-/* 			@media (hover: hover) { */
-/* 				.my-star:not(.is-active):hover{ */
-/* 				    color: #fb8900; */
-/* 				} */
-/* 			} */
+
     	</style>
         <div class="header">
             <div class="title">La biblioteca dels Rucs Elèctrics</div>
@@ -60,34 +55,41 @@
             </ul>
         </div>
         <div class="container">
-			<h1 class="" style="margin: 0.5em 0">Vota el millor fantàstic en català</h1>
-            <div id="puntTop" class="lletres">
+			<h1 class="" style="margin: 0.5em 0; text-align: center">Vota el millor fantàstic en català</h1>
+			<div style="margin: 0.5em 0; text-align: center"> 
+				<p>Ajuda'ns a escollir les millors obres del fantàstic català i a fer un sistema de recomanacions per a tots els gustos</p>
+			</div>
+			
+			<div id="startDiv" style="text-align: center;">
+				<button id="startBtn" type="button" class="btn btn-success">Comença el joc</button>
+			</div>
+            <div id="puntTop" class="lletres" style="display: none;">
            	 	<div>
            	 		<div class="col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4 ">
 	                	<div class="current">
 	                		<div class="grid-info">
 			                	<ul>
-			                		<li id="li-title"><b>Vapor Negre. Barcelona steampunk 1911</b></li>
-			                		<li id="li-author"><b>Diversos autors   </b></li>
-			                        <li id="li-publisher">Crims.cat (2023)</li>
+			                		<li id="li-title"><b></b></li>
+			                		<li id="li-author"><b></b></li>
+			                        <li id="li-publisher"></li>
 			                	</ul>
 		                        
 		                	</div>
 		            		<div id="image" class="vot-portada">
-		            			<img src="https://drpertorbat.github.io/biblioteca/resources/img/hipermatrònic,-l'hiperbreu-que-va-sorgir-de-l'espai-profund(orciny-press).jpg"  style="max-width: 100%" class="portada">
+		            			<img src=""  style="max-width: 100%" class="portada">
 	    	        		</div>
 	                	</div>
 	                	<div class="next">
 		                	<div class="grid-info">
 			                	<ul>
-			                		<li id="li-title"><b>Vapor Negre. Barcelona steampunk 1911</b></li>
-			                		<li id="li-author"><b>Diversos autors   </b></li>
-			                        <li id="li-publisher">Crims.cat (2023)</li>
+			                		<li id="li-title"><b></b></li>
+			                		<li id="li-author"><b></b></li>
+			                        <li id="li-publisher"></li>
 			                	</ul>
 		                        
 		                	</div>
 		            		<div id="image" class="vot-portada">
-		            			<img src="https://drpertorbat.github.io/biblioteca/resources/img/hipermatrònic,-l'hiperbreu-que-va-sorgir-de-l'espai-profund(orciny-press).jpg"  style="max-width: 100%" class="portada">
+		            			<img src=""  style="max-width: 100%" class="portada">
 	    	        		</div>
 	                	</div>
 	        			<div style="margin-top: 10px;">
