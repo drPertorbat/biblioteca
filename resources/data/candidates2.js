@@ -1883,7 +1883,7 @@ var list = [
     "isPopular": false,
     "isNew": true,
     "isTranslation": true,
-    "imageUrl": "https://periscopi.cat/images/descarregables/Cobertes/ANT_8_COBERTA_DESCARREGABLE_THE_LEFTOVERS.jpg",
+    "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/the-leftovers(edicions-del-periscopi).jpeg",
     "publisher": "Edicions del Periscopi",
     "year": 2014,
     "totalVotes": 0,
