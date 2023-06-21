@@ -40,8 +40,9 @@ $().ready(function(){
 	
 	$('#voteStar').click(function() {
 		
-		vota(rating);
-		nextBook();
+		if(vota(rating)){
+			nextBook();
+		}
 		
 	});
 	
@@ -50,8 +51,9 @@ $().ready(function(){
 		rating = $('#myRange').val();
 		
 		
-		vota(rating);
-		nextBook();
+		if(vota(rating)){
+			nextBook();
+		}
 		
 	});
 	
@@ -159,6 +161,10 @@ function getRandomInt(max) {
 function vota(val) {
 	var book = currentBook;
 	
+	if(!val) {
+		alert("Puntua l'obra primer o clica no llegit");
+		return false;
+	}
 	
 	// Get data
 	var data = {
@@ -188,6 +194,8 @@ function vota(val) {
 			$('#feedback').html('<label class="text-success">Message sent!</label>');
 	    }
 	});
+	
+	return true;
     
 }
 
