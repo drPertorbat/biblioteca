@@ -1932,7 +1932,7 @@ var list = [
     "averagePoints": 0.00
   },
   {
-    "id": 3669,
+    "id": 3379,
     "title": "La costa més llunyana",
     "author": "Le Guin, Ursula K.",
     "editionId": 1595,
@@ -1960,7 +1960,7 @@ var list = [
     "averagePoints": 0.00
   },
   {
-    "id": 3671,
+    "id": 3383,
     "title": "La mà esquerra de la foscor",
     "author": "Le Guin, Ursula K.",
     "editionId": 1419,
