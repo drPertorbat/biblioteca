@@ -62,7 +62,7 @@ $().ready(function () {
 				var e = extra.find(x => x.id === currentJsonId);				
 				text = '#Encriptat especial resolt. ' + e.title + ' ' + selectedExtra + '\n\nhttps://rucselectrics.itch.io/encriptat';
 			} else {
-				text = '#Encriptat setmanal resolt. Setmana /' + weekNumber() + '\n\nhttps://rucselectrics.itch.io/encriptat';
+				text = '#Encriptat resolt. Setmana ' + weekNumber() + '\n\nhttps://rucselectrics.itch.io/encriptat';
 			}
 			navigator.clipboard.writeText(text).then(
 				function(){
@@ -126,6 +126,10 @@ $().ready(function () {
 		});
 		
 	});
+
+	$('.footer .banner').click(function(){
+		window.open("https://drpertorbat.github.io/biblioteca/millor-fantastic/votacions.html", "_blank");
+	})
 
 });
 

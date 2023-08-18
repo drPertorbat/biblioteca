@@ -241,7 +241,15 @@ li.solved::after {
     
 }
 
+.banner {
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+}
 
+.banner p {
+    margin: 0;
+}
 
 .toast {
     position: fixed;
