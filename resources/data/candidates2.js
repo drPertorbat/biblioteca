@@ -777,8 +777,8 @@ var list = [
     "isPopular": false,
     "isNew": true,
     "isTranslation": false,
-    "imageUrl": "https://gigamesh.com/wp-content/uploads/2023/07/Tadems-fantastics.jpg",
-    "publisher": "Obscura Editorial",
+    "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/tàndems-fantàstics(obscura-editorial).jpeg",
+    "publisher": "Spècula",
     "year": 2023,
     "totalVotes": 0,
     "averagePoints": 0.00
