@@ -2576,6 +2576,48 @@ var list = [
     "averagePoints": 0.00
   },
   {
+    "id": 3981,
+    "title": "1Q84",
+    "author": "Murakami, Haruki",
+    "editionId": 3642,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/96/m_libros/1q84-1-2_9788497876865.jpg",
+    "publisher": "Empúries",
+    "year": 2011,
+    "totalVotes": 0,
+    "averagePoints": 0.00
+  },
+  {
+    "id": 3982,
+    "title": "La noia que es va entregar al mar",
+    "author": "Oh, Axie",
+    "editionId": 3961,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/91DkFG26PzL._SY466_.jpg",
+    "publisher": "Elastic Books",
+    "year": 2023,
+    "totalVotes": 0,
+    "averagePoints": 0.00
+  },
+  {
+    "id": 3983,
+    "title": "Tren nocturn de la Galàxia",
+    "author": "Miyazawa, Kenji",
+    "editionId": 3970,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/41C-3jEg87L.jpg",
+    "publisher": "Lapislàtzuli",
+    "year": 2020,
+    "totalVotes": 0,
+    "averagePoints": 0.00
+  },
+  {
     "id": 3377,
     "title": "Els desposseïts",
     "author": "Le Guin, Ursula K.",
