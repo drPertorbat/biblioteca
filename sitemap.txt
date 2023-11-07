@@ -1,6 +1,7 @@
 https://drpertorbat.github.io/biblioteca/index.html
 https://drpertorbat.github.io/biblioteca/originals.html
 https://drpertorbat.github.io/biblioteca/traduccions.html
+https://drpertorbat.github.io/biblioteca/autors.html
 https://drpertorbat.github.io/biblioteca/novetats-editorials.html
 https://drpertorbat.github.io/biblioteca/millor-fantastic/votacions.html
 https://drpertorbat.github.io/biblioteca/llibres/quaderns-crem/el-conte-de-la-serventa.html
@@ -202,3 +203,14 @@ https://drpertorbat.github.io/biblioteca/llibres/mes-llibres/kwaidan--histories-
 https://drpertorbat.github.io/biblioteca/llibres/el-biblionauta/el-somni-de-la-sultana.html
 https://drpertorbat.github.io/biblioteca/llibres/anagrama/et-vaig-donar-ulls-i-vas-mirar-les-tenebres.html
 https://drpertorbat.github.io/biblioteca/llibres/pages-editors/eutopia.html
+https://drpertorbat.github.io/biblioteca/llibres/pathosformel/club-splatter-3.html
+https://drpertorbat.github.io/biblioteca/llibres/empuries/1q84.html
+https://drpertorbat.github.io/biblioteca/llibres/specula/tandems-fantastics.html
+https://drpertorbat.github.io/biblioteca/llibres/educaula62/invasio-subtil-i-altres-contes.html
+https://drpertorbat.github.io/biblioteca/llibres/crims-cat/vapor-negre--barcelona-steampunk-1911.html
+https://drpertorbat.github.io/biblioteca/llibres/pleniluni/homes-artificials.html
+https://drpertorbat.github.io/biblioteca/llibres/biblioteca-joventut/homes-artificials.html
+https://drpertorbat.github.io/biblioteca/llibres/portic/si-el-timbaler-del-bruc.html
+https://drpertorbat.github.io/biblioteca/bingocificat/2023-24/lovecraftia.html
+https://drpertorbat.github.io/biblioteca/persones/ursula-k--le-guin.html
+https://drpertorbat.github.io/biblioteca/persones/frederic-pujula.html
