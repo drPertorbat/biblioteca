@@ -111,8 +111,9 @@ function removeVoted() {
 
 
 function nextBook() {
-//	$('.my-star').removeClass("is-active");
-//	rating = 0;
+	$('.my-star').removeClass("is-active");
+	rating = 0;
+	$('#rangeVal').text("");
 	
 	displayNext();
 	
