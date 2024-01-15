@@ -166,6 +166,15 @@ table th {
     text-align: left;
 }
 
+ .content-block {
+ 	margin-top: 15x;
+ 	margin-bottom: 15px;
+ }
+ 
+ tr.pendent {
+ 	color: lightgray;
+ }
+
 @media screen and (max-width: 600px) {
   table {
     border: 0;
