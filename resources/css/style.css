@@ -36,7 +36,10 @@
     padding: 14px 16px;
     text-decoration: none;
 }
-  
+
+.small-text {
+	font-size: 0.8rem; 
+} 
   
 img.portada {
 	border: 1px solid black;
