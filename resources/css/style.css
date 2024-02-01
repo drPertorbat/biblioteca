@@ -178,6 +178,11 @@ table th {
  	color: lightgray;
  }
 
+  iframe.bingo {
+  	width: 100%;
+  	max-width: 600px;
+  	height: 600px;
+  }
 @media screen and (max-width: 600px) {
   table {
     border: 0;
@@ -233,5 +238,11 @@ table th {
 	table td.any {
 	width: 100%;
 	text-align: right;
+  }
+  
+  iframe.bingo {
+  	width: 100%;
+  	max-width: 600px;
+  	height: 300px;
   }
 }
