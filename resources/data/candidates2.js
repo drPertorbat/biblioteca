@@ -10,8 +10,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647542075l/60637490._SY475_.jpg",
     "publisher": "Medusa",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3458,
@@ -24,8 +23,7 @@ var list = [
     "imageUrl": "https://www.penguinllibres.com/1425393-thickbox_default/diatomea.jpg",
     "publisher": "La Magrana",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3459,
@@ -38,8 +36,7 @@ var list = [
     "imageUrl": "https://imatges.vilaweb.cat/nacional/wp-content/uploads/2022/03/coberta-Males-Herbes-09110019-768x1240.jpg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3460,
@@ -52,8 +49,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/aioua(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3461,
@@ -66,8 +62,7 @@ var list = [
     "imageUrl": "https://www.pageseditors.cat/media/catalog/product/cache/1/image/570x735/9df78eab33525d08d6e5fb8d27136e95/9/7/9788413033464_1.jpg",
     "publisher": "Pagès Editors",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3462,
@@ -80,8 +75,7 @@ var list = [
     "imageUrl": "https://www.jollibre.com/uploads/2021/12/resized/800_9788416666553-croniques-distopiques.jpg",
     "publisher": "Jo Llibre",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3463,
@@ -94,8 +88,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642363523l/60139554._SY475_.jpg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3505,
@@ -108,8 +101,7 @@ var list = [
     "imageUrl": "https://imagessl0.casadellibro.com/a/l/t7/40/9788448951740.jpg",
     "publisher": "Barcanova",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3506,
@@ -122,8 +114,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/un-bibliotecari-de-mart(chronos).jpeg",
     "publisher": "Chronos",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3507,
@@ -136,8 +127,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/sismes(chronos).jpeg",
     "publisher": "Chronos",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3508,
@@ -150,8 +140,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645793843l/60493871._SY475_.jpg",
     "publisher": "Universal",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3509,
@@ -164,8 +153,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41FlskCj6ZL.jpg",
     "publisher": "Tempore",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3510,
@@ -178,8 +166,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-cercle-fetiller(edicions-secc).jpg",
     "publisher": "Edicions Secc",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3511,
@@ -192,8 +179,7 @@ var list = [
     "imageUrl": "https://www.racocatala.cat/imatges/llibres/hector-rivadeneyra-moll-mesura-lhome.jpg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3512,
@@ -206,8 +192,7 @@ var list = [
     "imageUrl": "https://static.wixstatic.com/media/61f884_858de6a3582f4e96acdf7c299715b49f~mv2.jpg/v1/fill/w_274,h_420,al_c,q_85,usm_0.66_1.00_0.01/61f884_858de6a3582f4e96acdf7c299715b49f~mv2.webp",
     "publisher": "Stonberg Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3514,
@@ -220,8 +205,7 @@ var list = [
     "imageUrl": "https://www.lafontdemimir.cat/imagenes/poridentidad?identidad\u003da69a28ad-29d1-4170-b449-a498e83a899e\u0026ancho\u003d900\u0026alto\u003d",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3520,
@@ -234,8 +218,7 @@ var list = [
     "imageUrl": "https://alreveseditorial.com/storage/920/responsive-images/suicidis-sa-marilo-alvarez___medialibrary_original_794_1270.jpg",
     "publisher": "Crims.cat",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3521,
@@ -248,8 +231,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-veu-del-seu-amo(males-herbes).jpeg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3522,
@@ -262,8 +244,7 @@ var list = [
     "imageUrl": "https://alreveseditorial.com/storage/916/responsive-images/fets-caldo-pere-figueras___medialibrary_original_466_745.jpg",
     "publisher": "Crims.cat",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3523,
@@ -276,8 +257,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/les-causes-invisibles(spècula).jpeg",
     "publisher": "Spècula",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3524,
@@ -290,8 +270,7 @@ var list = [
     "imageUrl": "https://elbiblionauta.com/ca/wp-content/uploads/2022/07/nicolau-678x1024.jpeg",
     "publisher": "La segona perifèria",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3525,
@@ -304,8 +283,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/513p+PSK+EL.jpg",
     "publisher": "Obscura Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3526,
@@ -318,8 +296,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/09/la-muntanya-liquida-merce-falco-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3527,
@@ -332,8 +309,7 @@ var list = [
     "imageUrl": "https://elbiblionauta.com/ca/wp-content/uploads/2022/04/dos-daus-de-vint.jpeg",
     "publisher": "Scito Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3540,
@@ -346,8 +322,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/sabres-de-sal-ii(edicions-secc).jpeg",
     "publisher": "Edicions SECC",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3541,
@@ -360,8 +335,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/357/original/portada_on-hi-hagi-por_xevi-sala-puig_202207061723.jpg",
     "publisher": "Columna Edicions",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3542,
@@ -374,8 +348,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/355/original/portada_els-fills-deodhum_roger-tarres-rodrigo_202206141231.jpg",
     "publisher": "Fanbooks",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3543,
@@ -388,8 +361,7 @@ var list = [
     "imageUrl": "https://www.udllibros.com/imagenes/9788419/978841941503.JPG",
     "publisher": "Spècula",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3544,
@@ -402,8 +374,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667479396i/63212066.jpg",
     "publisher": "Edicions SECC",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3545,
@@ -416,8 +387,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/349/original/portada_gossos-salvatges_georgina-dalmau-sanleandro_202207131645.jpg",
     "publisher": "Fanbooks",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3546,
@@ -430,8 +400,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/10/compte-conte-contes-ivan-ledesma-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3557,
@@ -444,8 +413,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/345/m_libros/portada_la-dona-eterna_pep-prieto_202201181244.jpg",
     "publisher": "Columna Edicions",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3558,
@@ -458,8 +426,7 @@ var list = [
     "imageUrl": "https://www.navonaed.com/media/navona/images/thumbs/edition-137890-236x350.jpg",
     "publisher": "Navona",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3559,
@@ -472,8 +439,7 @@ var list = [
     "imageUrl": "https://imagessl6.casadellibro.com/a/l/t7/56/9788475889856.jpg",
     "publisher": "Editorial Proa",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3560,
@@ -486,8 +452,7 @@ var list = [
     "imageUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/6d/52/79/7950957/1507-1.jpg",
     "publisher": "Barcanova",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3568,
@@ -500,8 +465,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-nom-de-l-univers-és-fetiller(edicions-secc).jpg",
     "publisher": "Edicions SECC",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3569,
@@ -514,8 +478,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61ZDFPYNAPL.jpg",
     "publisher": "Crims.cat",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3570,
@@ -528,8 +491,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/03/arxipelag-guillem-lopez-mai-mes-656x1024.jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3571,
@@ -542,8 +504,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71JWEP8F5LL.jpg",
     "publisher": "Voliana Edicions",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3572,
@@ -556,8 +517,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2023/02/nocea-ricard-efa-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3573,
@@ -570,8 +530,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/713zMv1zRNL.jpg",
     "publisher": "Spècula",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3574,
@@ -584,8 +543,7 @@ var list = [
     "imageUrl": "https://i0.wp.com/pol-len.cat/w2018/wp-content/uploads/2022/11/9788418580628-copia-jpg.webp?fit\u003d772%2C551",
     "publisher": "Pol·len Edicions",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3575,
@@ -598,8 +556,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71Y9siQdNnL.jpg",
     "publisher": "Pagès Editors",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3597,
@@ -612,8 +569,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/històries-del-lathalvers(edicions-secc).jpeg",
     "publisher": "Edicions SECC",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3598,
@@ -626,8 +582,7 @@ var list = [
     "imageUrl": "https://chronos.cat/wp-content/uploads/2023/03/Lleialtat_web.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3599,
@@ -640,8 +595,7 @@ var list = [
     "imageUrl": "https://chronos.cat/wp-content/uploads/2023/03/Guia_web.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3600,
@@ -654,8 +608,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71Ew9bh42GL.jpg",
     "publisher": "Spècula",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3601,
@@ -668,8 +621,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81lb-A9WnTL.jpg",
     "publisher": "La Campana",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3602,
@@ -682,8 +634,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61LkU64+JnL.jpg",
     "publisher": "Males Herbes",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3603,
@@ -696,8 +647,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51V4WuglGdL.jpg",
     "publisher": "L\u0027altra editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3840,
@@ -710,8 +660,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61ZbiaQayIL.jpg",
     "publisher": "Pagès Editors",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3841,
@@ -724,8 +673,7 @@ var list = [
     "imageUrl": "https://www.anagrama-ed.es/uploads/media/portadas/0001/28/xthumb_27152_portadas_big.png.pagespeed.ic.7gbhqCn--B.webp",
     "publisher": "Anagrama",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3842,
@@ -738,8 +686,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/372/m_libros/portada_si-el-timbaler-del-bruc_xavier-carmaniu_202302141121.jpg",
     "publisher": "Pòrtic",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3843,
@@ -752,8 +699,7 @@ var list = [
     "imageUrl": "https://www.pageseditors.cat/media/catalog/product/cache/1/image/570x735/9df78eab33525d08d6e5fb8d27136e95/9/7/9788412461336.jpg",
     "publisher": "Pagès editors",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3927,
@@ -766,8 +712,7 @@ var list = [
     "imageUrl": "https://bromera.com/infantil-juvenil/36523-fitxa_producte/insurgents.jpg",
     "publisher": "Bromera",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3928,
@@ -780,8 +725,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/t%C3%A0ndems-fant%C3%A0stics(obscura-editorial).jpeg",
     "publisher": "Obscura Editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3929,
@@ -794,8 +738,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/07/Crims.cat-79.-Caront-646x1024.jpg",
     "publisher": "Crims.cat",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3930,
@@ -808,8 +751,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61ecXhaILpL._SL1016_.jpg",
     "publisher": "Obscura Editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4149,
@@ -822,8 +764,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91LW7DO+7gL._SY466_.jpg",
     "publisher": "Pathosformel",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4150,
@@ -836,8 +777,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/712q4ijbaRL._SY466_.jpg",
     "publisher": "La Campana",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4151,
@@ -850,8 +790,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81d1hWzGfYL._SY466_.jpg",
     "publisher": "Elastic Llibres",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4152,
@@ -864,8 +803,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/urbas-i-org-la-sang-dels-deus(edicions-secc).png",
     "publisher": "Edicions SECC",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4153,
@@ -878,8 +816,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71TwaF3NSNL._SY466_.jpg",
     "publisher": "Spècula",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4154,
@@ -892,8 +829,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81Lt72A-+aL._SY466_.jpg",
     "publisher": "Cruïlla",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4155,
@@ -906,8 +842,7 @@ var list = [
     "imageUrl": "https://static.fnac-static.com/multimedia/Images/ES/NR/ac/c8/82/8571052/1507-1.jpg",
     "publisher": "Males Herbes",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4156,
@@ -920,8 +855,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51gTjKPntGL._SY445_SX342_.jpg",
     "publisher": "Empúries",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4157,
@@ -934,8 +868,7 @@ var list = [
     "imageUrl": "https://imagessl5.casadellibro.com/a/l/s7/35/9788412702835.webp",
     "publisher": "Obrador Editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4158,
@@ -948,8 +881,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/810CSz-gLjL._SY466_.jpg",
     "publisher": "Apostroph",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4159,
@@ -962,8 +894,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41DeRHRb5oL._SY466_.jpg",
     "publisher": "Independent",
     "year": 2006,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4160,
@@ -976,8 +907,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41ie0ktsKJL._SY466_.jpg",
     "publisher": "Independent",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4161,
@@ -990,8 +920,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61NypOXpI-L._SY466_.jpg",
     "publisher": "Independent",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4162,
@@ -1004,8 +933,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71LFxfgTvqL._SY466_.jpg",
     "publisher": "Independent",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4163,
@@ -1018,8 +946,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51C6i8RsvjL._SY466_.jpg",
     "publisher": "Independent",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4164,
@@ -1032,8 +959,7 @@ var list = [
     "imageUrl": "https://www.localbook.cat/imagenes/9788412/978841257525.GIF",
     "publisher": "Lluny del ramat editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5621,
@@ -1046,8 +972,7 @@ var list = [
     "imageUrl": "https://www.terraignotaediciones.com/wp-content/uploads/2023/05/99942-APOPHIS-2029-portada-web-450x633.jpg",
     "publisher": "Terra ignota",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5623,
@@ -1060,8 +985,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71xwXqE0z5L._SY466_.jpg",
     "publisher": "Anagrama",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5624,
@@ -1074,8 +998,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81jFLz6jgYL._SY342_.jpg",
     "publisher": "Males Herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5625,
@@ -1088,8 +1011,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/A1s88Wxk-WL._SY466_.jpg",
     "publisher": "Proa",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5626,
@@ -1102,8 +1024,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41M+yf8+XXL._SY425_.jpg",
     "publisher": "Pagès Editors",
     "year": 2005,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5627,
@@ -1116,8 +1037,7 @@ var list = [
     "imageUrl": "https://imagessl2.casadellibro.com/a/l/s7/02/9788419415202.webp",
     "publisher": "Spècula",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5628,
@@ -1130,8 +1050,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/històres-de-les-terres-albes(edicions-secc).jpeg",
     "publisher": "Edicions SECC",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5629,
@@ -1144,8 +1063,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61myMjNlXzL._SL1224_.jpg",
     "publisher": "Pagès Editors",
     "year": 2007,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5630,
@@ -1158,8 +1076,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/419OtobDkHL._SY445_SX342_.jpg",
     "publisher": "Males Herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5631,
@@ -1172,8 +1089,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81jY2D5fiLL._SY466_.jpg",
     "publisher": "Edebé",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5632,
@@ -1186,8 +1102,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/ku/paper_cremat_13575_C7m6XyKU.jpg",
     "publisher": "Apostroph",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5633,
@@ -1200,8 +1115,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61g3UOlQFQL.jpg",
     "publisher": "Sembra Llibres",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5634,
@@ -1214,8 +1128,150 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/817EQJ3dfnL.jpg",
     "publisher": "Males Herbes",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
+  },
+  {
+    "id": 5693,
+    "title": "L\u0027últim corb",
+    "author": "Soro, Selena",
+    "editionId": 5686,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/4135iQ7idlL._SY445_SX342_.jpg",
+    "publisher": "Columna Edicions",
+    "year": 2024,
+    "totalVotes": 0
+  },
+  {
+    "id": 5694,
+    "title": "Riu de safirs",
+    "author": "Pastor, Marc",
+    "editionId": 5689,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71Jn+6N13DL._SY466_.jpg",
+    "publisher": "Edicions 62",
+    "year": 2024,
+    "totalVotes": 0
+  },
+  {
+    "id": 5838,
+    "title": "Unes ganes salvatges de cridar",
+    "author": "Vintró, Marc",
+    "editionId": 5791,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/910XwI0DH9L._SY466_.jpg",
+    "publisher": "Proa",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5839,
+    "title": "Succedanis d\u0027eternitat",
+    "author": "Gálvez, David",
+    "editionId": 5795,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/818DFjcgnlL._SY466_.jpg",
+    "publisher": "Més llibres",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5840,
+    "title": "Una història és una pedra llançada al riu",
+    "author": "Batet, Mònica",
+    "editionId": 5798,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://imagessl8.casadellibro.com/a/l/s7/68/9788419017468.webp",
+    "publisher": "Angle Editorial",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5841,
+    "title": "Sota el fang",
+    "author": "Roca Navarro, Joan",
+    "editionId": 5802,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/8165kpSZSoL._SY466_.jpg",
+    "publisher": "La magrana",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5842,
+    "title": "Pallars cretàcic",
+    "author": "Oset, Sergi G.",
+    "editionId": 5806,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71qpBAsXvNL._SY466_.jpg",
+    "publisher": "Pathosformel",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5843,
+    "title": "Omni",
+    "author": "Valor, Jaume",
+    "editionId": 5811,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71ZWZe5WKUL._SY466_.jpg",
+    "publisher": "Llibres del delicte",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5844,
+    "title": "Les cinc ciutats d’Ul-dri’ak",
+    "author": "Coch, Roger",
+    "editionId": 5816,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/les-cinc-ciutats-d’ul-dri’ak(adia-edicions).jpeg",
+    "publisher": "Adia Edicions",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5845,
+    "title": "El Palau d\u0027ossos",
+    "author": "Albertí, Núria",
+    "editionId": 5820,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/81fpcM-tvCL._SY466_.jpg",
+    "publisher": "Elastic Llibres",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5846,
+    "title": "Contra el món",
+    "author": "Pons Portella, Pere Antoni",
+    "editionId": 5824,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/41cIeDeaomL._SY445_SX342_.jpg",
+    "publisher": "Empúries",
+    "year": 2023,
+    "totalVotes": 0
   },
   {
     "id": 3266,
@@ -1228,8 +1284,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/crucifeminació(orciny-press).jpg",
     "publisher": "Orciny Press",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3269,
@@ -1242,8 +1297,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-pell-freda(la-campana).jpg",
     "publisher": "La Campana",
     "year": 2002,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3270,
@@ -1256,8 +1310,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-mutació-sentimental(pagès-editors).jpeg",
     "publisher": "Pagès Editors",
     "year": 2008,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3272,
@@ -1270,8 +1323,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/l-any-de-la-plaga(la-magrana).jpg",
     "publisher": "La Magrana",
     "year": 2010,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3273,
@@ -1284,8 +1336,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-decisió-de-manperel(columna).JPG",
     "publisher": "Columna",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3278,
@@ -1298,8 +1349,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/malsons-de-gat(hermenaute).jpeg",
     "publisher": "Hermenaute",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3283,
@@ -1312,8 +1362,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/michelíada(males-herbes).JPG",
     "publisher": "Males Herbes",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3288,
@@ -1326,8 +1375,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/mans-lliures(edicions-62).jpg",
     "publisher": "Edicions 62",
     "year": 2009,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3290,
@@ -1340,8 +1388,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/farishta(amsterdam).jpg",
     "publisher": "Amsterdam",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3292,
@@ -1354,8 +1401,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/Enxarxats (males herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3300,
@@ -1368,8 +1414,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/hipermatrònic,-l-hiperbreu-que-va-sorgir-de-l-espai-profund(orciny-press).jpg",
     "publisher": "Orciny Press",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3316,
@@ -1382,8 +1427,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-dona-que-es-va-perdre(empúries).jpg",
     "publisher": "Empúries",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3333,
@@ -1396,8 +1440,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/perímetre(catedral).jpg",
     "publisher": "Catedral",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3352,
@@ -1410,8 +1453,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-primera-onada(bromera).jpg",
     "publisher": "Bromera",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3354,
@@ -1424,8 +1466,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/no-et-miris-el-riu(editorial-meteora).jpg",
     "publisher": "Editorial Meteora",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3362,
@@ -1438,8 +1479,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/metal·lúrgia(males-herbes).jfif",
     "publisher": "Males Herbes",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3368,
@@ -1452,8 +1492,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/memòries-d-un-futur-bàrbar(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2006,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3481,
@@ -1466,8 +1505,7 @@ var list = [
     "imageUrl": "https://www.adiaedicions.cat/wp-content/uploads/2020/10/06-andrea-victrix.jpg",
     "publisher": "AdiA Edicions",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3486,
@@ -1480,8 +1518,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593988902l/54404500._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3498,
@@ -1494,8 +1531,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1557827203l/45755687.jpg",
     "publisher": "Males Herbes",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3555,
@@ -1508,8 +1544,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/mecanoscrit-del-segon-origen(edicions-62).jpeg",
     "publisher": "Edicions 62",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3591,
@@ -1522,8 +1557,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91A4fIuzAKL.jpg",
     "publisher": "Edicions 62",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3379,
@@ -1536,8 +1570,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-mà-esquerra-de-la-foscor(raig-verd).jpg",
     "publisher": "Raig Verd",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3386,
@@ -1550,8 +1583,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/10/v14_THE-WINDS-TWELVE_COBERTA-RUSTICA-683x1024.jpg",
     "publisher": "Raig Verd",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3402,
@@ -1564,8 +1596,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51PS1kpgseL.jpg",
     "publisher": "Kalandraka",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3403,
@@ -1578,8 +1609,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643277371l/60223254._SY475_.jpg",
     "publisher": "Obscura Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3404,
@@ -1592,8 +1622,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/03/zoo-city-lauren-beukes-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3405,
@@ -1606,8 +1635,7 @@ var list = [
     "imageUrl": "https://editorialmalesherbes.netlify.app/static/33bbc461e67cfa0f36528f6ef1dc667c/faef7/galapagos_portada.webp",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3406,
@@ -1620,8 +1648,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648106911l/60682053._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3407,
@@ -1634,8 +1661,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/01/9788417925826ElLlibreDePhoenix-683x1024.jpg",
     "publisher": "Raig Verd",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3408,
@@ -1648,8 +1674,7 @@ var list = [
     "imageUrl": "https://lafinestralectora.cat/wp-content/uploads/2022/01/Relatsonirics.jpg",
     "publisher": "Angle Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3516,
@@ -1662,8 +1687,7 @@ var list = [
     "imageUrl": "https://elbiblionauta.com/ca/wp-content/uploads/2022/04/enemic-meu.jpeg",
     "publisher": "Laertes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3517,
@@ -1676,8 +1700,7 @@ var list = [
     "imageUrl": "https://elbiblionauta.com/ca/wp-content/uploads/2022/06/home-de-sorra.jpeg",
     "publisher": "Laertes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3518,
@@ -1690,8 +1713,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/05/la-cinquena-estacio-jemisin-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3519,
@@ -1704,8 +1726,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/416kmk3xd4L._SX336_BO1,204,203,200_.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3528,
@@ -1718,8 +1739,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/345/original/portada_contes-inacabats-de-numenor-i-la-terra-mitjana_j-r-r-tolkien_202205160954.jpg",
     "publisher": "Editorial Proa",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3529,
@@ -1732,8 +1752,7 @@ var list = [
     "imageUrl": "https://imatges.vilaweb.cat/nacional/wp-content/uploads/2022/09/esmorzar_portada-BO-13094241.jpg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3530,
@@ -1746,8 +1765,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-restaurant-del-final-de-l-univers(l-arcà).jpeg",
     "publisher": "L\u0027Arcà",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3531,
@@ -1760,8 +1778,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/47/prevenda_fundacio_amb_lamina_dobsequi_20063_Uy5yA947.jpg",
     "publisher": "Duna editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3532,
@@ -1774,8 +1791,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51TTg6NtOML.jpg",
     "publisher": "Obscura Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3533,
@@ -1788,8 +1804,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/04/Coberta-Antic-llinatge-UDL-692x1024.jpg",
     "publisher": "Chronos",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3534,
@@ -1802,8 +1817,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/06/Coberta-Ulls-compostos-UDL-1-662x1024.jpg",
     "publisher": "Chronos",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3535,
@@ -1816,8 +1830,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/06/9788417925741-668x1024.jpg",
     "publisher": "Raig verd",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3536,
@@ -1830,8 +1843,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/08/9788419206923-677x1024.jpg",
     "publisher": "Indomita (Raig Verd)",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3537,
@@ -1844,8 +1856,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/09/m-de-monstre-talia-dutton-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3538,
@@ -1858,8 +1869,7 @@ var list = [
     "imageUrl": "https://www.amsterdamllibres.cat/wp-content/uploads/coberta-alexandria.jpg",
     "publisher": "Amsterdam",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3539,
@@ -1872,8 +1882,7 @@ var list = [
     "imageUrl": "https://marlibrosgen.com/wp-content/uploads/2022/09/Portada-Medusa-CAT-Web.png",
     "publisher": "Marlin Brogsen",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3547,
@@ -1886,8 +1895,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/wj/el_mar_de_la_tranquillitat_20658_6JK1PaWJ.jpg",
     "publisher": "Chronos",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3548,
@@ -1900,8 +1908,7 @@ var list = [
     "imageUrl": "https://imagessl8.casadellibro.com/a/l/t7/98/9788418558498.jpg",
     "publisher": "Kalandraka",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3549,
@@ -1914,8 +1921,7 @@ var list = [
     "imageUrl": "https://www.librerialuces.com/es/imagenes/9788418/978841829291.JPG",
     "publisher": "L\u0027Arcà",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3550,
@@ -1928,8 +1934,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/mascota(indomita-(raig-verd)).jpeg",
     "publisher": "Indomita (Raig Verd)",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3551,
@@ -1942,8 +1947,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/10/SLL64_Estrella-Roja.jpg",
     "publisher": "Sembra llibres",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3552,
@@ -1956,8 +1960,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/09/bons-averanys-terry-pratchett-neil-gaimam-mai-mes.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3553,
@@ -1970,8 +1973,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/dràcula(viena-editorial).jpeg",
     "publisher": "Viena Editorial",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3554,
@@ -1984,8 +1986,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2022/10/psalm-per-als-construits-en-terres-salvatges-becky-chambers.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3561,
@@ -1998,8 +1999,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/01/la-parabola-del-sembrador-octavia-butler-mai-mes-712x1024.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3562,
@@ -2012,8 +2012,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/01/la-glandula-d-icar-anna-starobinets-mai-mes-672x1024.jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3563,
@@ -2026,8 +2025,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/12/DUNE-MESSIES_Coberta-limitada-final-698x1024.jpg",
     "publisher": "Duna editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3564,
@@ -2040,8 +2038,7 @@ var list = [
     "imageUrl": "https://www.anagrama-ed.es/uploads/media/portadas/0001/27/xthumb_26810_portadas_big.jpeg.pagespeed.ic.NuKo5unktD.webp",
     "publisher": "Anagrama",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3565,
@@ -2054,8 +2051,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/01/imago-octavia-butler-mai-mes-708x1024.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3566,
@@ -2068,8 +2064,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/01/Coberta_Cercallums_web-692x1024.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3567,
@@ -2082,8 +2077,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2022/11/Els-caiguts_web-692x1024.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3576,
@@ -2096,8 +2090,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91Gqq8f5-WL.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3577,
@@ -2110,8 +2103,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/P/B0BVHWYZNQ.01._SCLZZZZZZZ_SX500_.jpg",
     "publisher": "Fanbooks",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3578,
@@ -2124,8 +2116,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71j6svbk+iL.jpg",
     "publisher": "Edicions del Periscopi",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3579,
@@ -2138,8 +2129,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41cnSnFWFiL.jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3580,
@@ -2152,8 +2142,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61fdtFQER-L.jpg",
     "publisher": "Indomita (Raig Verd)",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3581,
@@ -2166,8 +2155,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71l9z19NSUL.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3582,
@@ -2180,8 +2168,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91bB5AEwEYL.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3583,
@@ -2194,8 +2181,7 @@ var list = [
     "imageUrl": "https://www.penguinllibres.com/2374114-thickbox_default/la-granja-dels-animals.jpg",
     "publisher": "La magrana",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3584,
@@ -2208,8 +2194,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/zt/prevenda_terry_pratchett_una_vida_amb_notes_a_peu_de_pagina_20698_xq8qBTZt.jpg",
     "publisher": "Mai Més",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3585,
@@ -2222,8 +2207,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91DQr2cuc4L.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3586,
@@ -2236,8 +2220,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/348/m_libros/portada_la-casa-a-la-mar-mes-blava_tj-klune_202203161742.jpg",
     "publisher": "fanbooks",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3587,
@@ -2250,8 +2233,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/w1/freakcions_num_8_21152_N7UUq0w1.jpg",
     "publisher": "El Biblionauta",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3588,
@@ -2264,8 +2246,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61rHAOUxy0L.jpg",
     "publisher": "Males Herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3589,
@@ -2278,8 +2259,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/narranación-8(narranación).png",
     "publisher": "Narranación",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3590,
@@ -2292,8 +2272,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41cfpC3fqFL.jpg",
     "publisher": "SAGA Egmont",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3615,
@@ -2306,8 +2285,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51RWEpB-yAL.jpg",
     "publisher": "Males Herbes",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3616,
@@ -2320,8 +2298,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71il3utfHrL.jpg",
     "publisher": "Laertes",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3617,
@@ -2334,8 +2311,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61Zhp6AzGUL.jpg",
     "publisher": "Duna editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3618,
@@ -2348,8 +2324,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61A7yMue0DL.jpg",
     "publisher": "Obscura Editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3619,
@@ -2362,8 +2337,7 @@ var list = [
     "imageUrl": "https://imagessl3.casadellibro.com/a/l/t7/93/9788419059093.jpg",
     "publisher": "La segona perifèria",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3620,
@@ -2376,8 +2350,7 @@ var list = [
     "imageUrl": "https://imagessl3.casadellibro.com/a/l/t7/73/9788418292873.jpg",
     "publisher": "Laertes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3621,
@@ -2390,8 +2363,7 @@ var list = [
     "imageUrl": "https://editorialfinestres.com/app/uploads/2022/06/dragman-portada-738x1024.jpg",
     "publisher": "Finestres",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3622,
@@ -2404,8 +2376,7 @@ var list = [
     "imageUrl": "https://blackiebooks.org/wp-content/uploads/2021/12/9788418733789-600x904.jpg",
     "publisher": "Blackie Books",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3623,
@@ -2418,8 +2389,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/614R4G-OyLL.jpg",
     "publisher": "Columna Edicions",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3627,
@@ -2432,8 +2402,7 @@ var list = [
     "imageUrl": "https://periscopi.cat/images/descarregables/Cobertes/ANT_8_COBERTA_DESCARREGABLE_THE_LEFTOVERS.jpg",
     "publisher": "Edicions del Periscopi",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3628,
@@ -2446,8 +2415,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61mLqoBmnGL.jpg",
     "publisher": "Males Herbes",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3639,
@@ -2460,8 +2428,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51L38CiZFrL.jpg",
     "publisher": "Empúries",
     "year": 2008,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3640,
@@ -2474,8 +2441,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51duKBf-E7L.jpg",
     "publisher": "Edebé",
     "year": 2009,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3669,
@@ -2488,8 +2454,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603973254l/55815759._SY475_.jpg",
     "publisher": "Raig Verd",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3797,
@@ -2502,8 +2467,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51kdNOLjRsL._SX334_BO1,204,203,200_.jpg",
     "publisher": "L\u0027arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3798,
@@ -2516,8 +2480,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61ob2WVEooL.jpg",
     "publisher": "Males Herbes",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3799,
@@ -2530,8 +2493,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683292600i/149360909.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3800,
@@ -2544,8 +2506,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679310816i/123280342.jpg",
     "publisher": "Obscura Editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3801,
@@ -2558,8 +2519,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41eC+RBWvQL._SX311_BO1,204,203,200_.jpg",
     "publisher": "L\u0027arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3802,
@@ -2572,8 +2532,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/315QHk8zJ-L._SX308_BO1,204,203,200_.jpg",
     "publisher": "L\u0027arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3803,
@@ -2586,8 +2545,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2019/09/La-Brigada_Lluminosa-Coberta_WEB.jpg",
     "publisher": "Mai Més",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3804,
@@ -2600,8 +2558,7 @@ var list = [
     "imageUrl": "https://1.bp.blogspot.com/-TWKGpqxSt4g/XZeoGDM42FI/AAAAAAABito/it3IpaSt2vkitFuABUoVrCpu142Fy9RzgCLcBGAsYHQ/s1600/Portada%2BResnick.jpg",
     "publisher": "Edicions Secc",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3805,
@@ -2614,8 +2571,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41SbSJj7RvL.jpg",
     "publisher": "Males Herbes",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3806,
@@ -2628,8 +2584,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566851860l/49217254._SX318_SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3807,
@@ -2642,8 +2597,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61S5Y8FxpOL._SL1200_.jpg",
     "publisher": "Ara Llibres",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3808,
@@ -2656,8 +2610,7 @@ var list = [
     "imageUrl": "https://static2grup62cat.cdnstatics.com/usuaris/libros/fotos/298/original/portada_lleopard-negre-llop-vermell_marlon-james_201906041825.jpg",
     "publisher": "Editorial Empúries",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3809,
@@ -2670,8 +2623,7 @@ var list = [
     "imageUrl": "https://www.anagrama-ed.es/uploads/media/portadas/0001/23/07eef761360db96c6e1bf4b6c756c1f3a645a335.jpeg",
     "publisher": "Anagrama",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3810,
@@ -2684,8 +2636,7 @@ var list = [
     "imageUrl": "https://bromera.com/infantil-juvenil/coberta/9788490262979",
     "publisher": "Bromera",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3811,
@@ -2698,8 +2649,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560700061l/46304441._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3812,
@@ -2712,8 +2662,7 @@ var list = [
     "imageUrl": "https://static2grup62cat.cdnstatics.com/usuaris/libros/fotos/295/original/portada_stranger-things-tenebres-a-la-ciutat_adam-christopher_201904091000.jpg",
     "publisher": "Columna Edicions",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3813,
@@ -2726,8 +2675,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91Et11YT2XL.jpg",
     "publisher": "Rosa dels vents",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3814,
@@ -2740,8 +2688,7 @@ var list = [
     "imageUrl": "https://laltratribu.cat/wp-content/uploads/2018/11/portada2-1-600x885.png",
     "publisher": "L\u0027altra tribu",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3815,
@@ -2754,8 +2701,7 @@ var list = [
     "imageUrl": "https://static5grup62cat.cdnstatics.com/usuaris/libros/fotos/295/m_libros/294052_portada_histories-de-fantasmes_roald-dahl_201903040857.jpg",
     "publisher": "Fanbooks",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3816,
@@ -2768,8 +2714,7 @@ var list = [
     "imageUrl": "https://static2grup62cat.cdnstatics.com/usuaris/libros/fotos/291/original/portada_stranger-things-ments-perilloses_jordi-boixados-bisbal_201902131554.jpg",
     "publisher": "Columna Edicions",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3817,
@@ -2782,8 +2727,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1536671734l/41806331.jpg",
     "publisher": "Alfaguara",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3818,
@@ -2796,8 +2740,7 @@ var list = [
     "imageUrl": "https://1.bp.blogspot.com/-GUizSnrA9HA/W6vEDmzBGVI/AAAAAAAABUw/vOSvF873bwAUitbKbAIVy82rNjZiQJB3ACLcBGAs/s1600/torn%2Bde%2Bnit.jpg",
     "publisher": "Males Herbes",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3819,
@@ -2810,8 +2753,7 @@ var list = [
     "imageUrl": "https://3.bp.blogspot.com/-5mOuMy3DeyE/WpvfgqfkkXI/AAAAAAAABOc/mbz9odpbCMEvwClH4XilXS6FpsgIYSYxwCLcBGAs/s1600/golem.jpg",
     "publisher": "Més Llibres",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3820,
@@ -2824,8 +2766,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71xIlk5-60L.jpg",
     "publisher": "Àtic dels llibres",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3821,
@@ -2838,8 +2779,7 @@ var list = [
     "imageUrl": "https://4.bp.blogspot.com/-_66klwRn2Uw/WsX2PLKBe-I/AAAAAAAABPw/OfH-JUJZ1RU99deTRMFRGaB2LUUKoegcgCLcBGAs/s1600/les%2Bfilles%2Bde%2Btara.jpg",
     "publisher": "Fanbooks",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3822,
@@ -2852,8 +2792,7 @@ var list = [
     "imageUrl": "https://www.udllibros.com/imagenes/9788494/978849472587.JPG",
     "publisher": "Males Herbes",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3844,
@@ -2866,8 +2805,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-portal-dels-obeliscs(mai-més).jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3866,
@@ -2880,8 +2818,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/214/m_libros/portada_ready-player-one_ernest-cline_201603221525.jpg",
     "publisher": "Columna",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3867,
@@ -2894,8 +2831,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/P/B00G33571U.01._SCLZZZZZZZ_SX500_.jpg",
     "publisher": "Ediciones B",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3939,
@@ -2908,8 +2844,7 @@ var list = [
     "imageUrl": "https://periscopi.cat/images/descarregables/Cobertes/ANT_47_COBERTA_DESCARREGABLE_QUALITY_LAND.jpg",
     "publisher": "Edicions del Periscopi",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3940,
@@ -2922,8 +2857,7 @@ var list = [
     "imageUrl": "https://periscopi.cat/images/descarregables/Cobertes/ANT_77_COBERTA_DESCARREGABLE_QL_20.jpg",
     "publisher": "Edicions del Periscopi",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3943,
@@ -2936,8 +2870,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/331/original/portada_friday-black_nana-kwame-adjei-brenyah_202103091041.jpg",
     "publisher": "Empúries",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3952,
@@ -2950,8 +2883,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/31elFcudyiL._SY445_SX342_.jpg",
     "publisher": "Males Herbes",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3953,
@@ -2964,8 +2896,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/819UQsMiQ2L._SY466_.jpg",
     "publisher": "Males herbes",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3954,
@@ -2978,8 +2909,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/815WSlQOtKL._SY466_.jpg",
     "publisher": "Males herbes",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3981,
@@ -2992,8 +2922,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/96/m_libros/1q84-1-2_9788497876865.jpg",
     "publisher": "Empúries",
     "year": 2011,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3982,
@@ -3006,8 +2935,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91DkFG26PzL._SY466_.jpg",
     "publisher": "Elastic Books",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3983,
@@ -3020,8 +2948,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41C-3jEg87L.jpg",
     "publisher": "Lapislàtzuli",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4165,
@@ -3034,8 +2961,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/31c221gjb6L.jpg",
     "publisher": "Lapislàtzuli",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4166,
@@ -3048,8 +2974,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-somni-de-la-sultana(el-biblionauta).png",
     "publisher": "El Biblionauta",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4167,
@@ -3062,8 +2987,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/A1mHUlkTFdL._SL1500_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4168,
@@ -3076,8 +3000,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61jaL1ms-vL._SY466_.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4169,
@@ -3090,8 +3013,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81Q3cr2eBBL._SY466_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4170,
@@ -3104,8 +3026,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91K97DWED8L._SL1500_.jpg",
     "publisher": "Blackie Books",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4171,
@@ -3118,8 +3039,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51gmBvOmsKL._SY445_SX342_.jpg",
     "publisher": "Fanbooks",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4172,
@@ -3132,8 +3052,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/416ka8td+NL._SY445_SX342_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4173,
@@ -3146,8 +3065,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/fundació-i-imperi(duna-editorial).jpeg",
     "publisher": "Duna editorial",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4174,
@@ -3160,8 +3078,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71LYZRXIIJL._SY466_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4175,
@@ -3174,8 +3091,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-cas-de-charles-dexter-ward-(columna).jpeg",
     "publisher": "Columna",
     "year": 1991,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4176,
@@ -3188,8 +3104,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/717DA2nb-dL._SY466_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 1996,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4177,
@@ -3202,8 +3117,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/A1iPtCkcQBL._SY466_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4178,
@@ -3216,8 +3130,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/109/m_libros/portada_els-jocs-de-la-fam-i_suzanne-collins_202004281038.jpeg",
     "publisher": "Fanbooks",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4179,
@@ -3230,8 +3143,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/314/m_libros/portada_els-jocs-de-la-fam-ii-en-flames_suzanne-collins_202004281038.jpeg",
     "publisher": "Fanbooks",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4180,
@@ -3244,8 +3156,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/314/m_libros/portada_els-jocs-de-la-fam-iii-locell-de-la-revolta_suzanne-collins_202004281038.jpeg",
     "publisher": "Fanbooks",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 4292,
@@ -3258,8 +3169,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/295/m_libros/portada_un-mon-felic_ramon-folch-i-camarasa_201903251149.jpg",
     "publisher": "Educaula62",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5619,
@@ -3272,8 +3182,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679243860i/105970475.jpg",
     "publisher": "Educaula62",
     "year": 2009,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5620,
@@ -3286,8 +3195,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/3001,-l-odissea-final(edicions-62).jpeg",
     "publisher": "Edicions 62",
     "year": 1997,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5622,
@@ -3300,8 +3208,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91UJAm7Mg+L._SY466_.jpg",
     "publisher": "Columna Edicions",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5635,
@@ -3314,8 +3221,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/07/coberta-Bitter-_UDL-683x1024.jpg",
     "publisher": "Indomita (Raig Verd)",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5636,
@@ -3328,8 +3234,7 @@ var list = [
     "imageUrl": "https://imagessl5.casadellibro.com/a/l/s7/85/9788499306285.webp",
     "publisher": "La Butxaca",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5637,
@@ -3342,8 +3247,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700178237i/201122960.jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5638,
@@ -3356,8 +3260,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/08/CampZero_web-683x1024.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5639,
@@ -3370,8 +3273,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41zvhkikYEL.jpg",
     "publisher": "Pagès Editors",
     "year": 2002,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5640,
@@ -3384,8 +3286,7 @@ var list = [
     "imageUrl": "https://static.bookscovers.es/imagenes/9788419/978841967622.JPG",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5641,
@@ -3398,8 +3299,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/06/el-meravellos-maurice-terry-pratchett-mai-mes-683x1024.jpg",
     "publisher": "Mai Més",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5642,
@@ -3412,8 +3312,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/06/Sobrecoberta_EL-MON-DE-ROCANNON_RGB-683x1024.jpg",
     "publisher": "Raig Verd",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5643,
@@ -3426,8 +3325,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/07/coberta_El-mon-resplandent_web-683x1024.jpg",
     "publisher": "Duna Llibres",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5644,
@@ -3440,8 +3338,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/05/portada-_ELATSOE_web-691x1024.jpg",
     "publisher": "Indomita (Raig Verd)",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5645,
@@ -3454,8 +3351,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/346/m_libros/portada_fahrenheit-451_ray-bradbury_202112291255.jpg",
     "publisher": "Educaula62",
     "year": 2022,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5646,
@@ -3468,8 +3364,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/faules-de-robots(kalandraka).png",
     "publisher": "Kalandraka",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5647,
@@ -3482,8 +3377,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81matcABJjL.jpg",
     "publisher": "Alfaguara",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5648,
@@ -3496,8 +3390,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2023/11/Coberta_GossosDeGuerra_hres-683x1024.jpg",
     "publisher": "Chronos",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5649,
@@ -3510,8 +3403,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81UN-jv-j2L.jpg",
     "publisher": "Alfaguara",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5650,
@@ -3524,8 +3416,7 @@ var list = [
     "imageUrl": "https://imagessl4.casadellibro.com/a/l/s7/64/9788412683264.webp",
     "publisher": "Duna Llibres",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5651,
@@ -3538,8 +3429,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41Ls1eKlX6L._SX339_BO1,204,203,200_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5652,
@@ -3552,8 +3442,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91cExScQ0SL._SL1500_.jpg",
     "publisher": "Fanbooks",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5653,
@@ -3566,8 +3455,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696345076i/199270827.jpg",
     "publisher": "Males Herbes",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5654,
@@ -3580,8 +3468,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/sistemes-operatius-alternatius(ediccions-secc).jpeg",
     "publisher": "Edicions SECC",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5655,
@@ -3594,8 +3481,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51Y3qMfM7NL.jpg",
     "publisher": "Alfaguara",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5656,
@@ -3608,8 +3494,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/8170yBV8jzL.jpg",
     "publisher": "Alfaguara",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 5657,
@@ -3622,8 +3507,137 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61LgVVQ8xdL._SY466_.jpg",
     "publisher": "La segona perifèria",
     "year": 2023,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
+  },
+  {
+    "id": 5692,
+    "title": "Planeta d’exili",
+    "author": "Le Guin, Ursula K.",
+    "editionId": 5665,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://www.raigverdeditorial.cat/wp-content/uploads//2024/01/Planeta-dexili-200x300.jpg",
+    "publisher": "Raig Verd",
+    "year": 2024,
+    "totalVotes": 0
+  },
+  {
+    "id": 5830,
+    "title": "Germanes fatals",
+    "author": "Pratchett, Terry",
+    "editionId": 5734,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/germanes-fatals(mai-més).jpeg",
+    "publisher": "Mai Més",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5831,
+    "title": "Ara no miris",
+    "author": "Maurier, Daphne du",
+    "editionId": 5759,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/41leQClKU3L._SY445_SX342_.jpg",
+    "publisher": "Viena Editorial",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5832,
+    "title": "D\u0027una sang o identitat oculta",
+    "author": "Hopkins, Pauline E.",
+    "editionId": 5764,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/d-una-sang-o-identitat-oculta(lletra-impresa).webp",
+    "publisher": "Lletra impresa",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5833,
+    "title": "La paret",
+    "author": "Haushofer, Marlen",
+    "editionId": 5768,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/61zCUq3NQXL._SY425_.jpg",
+    "publisher": "Angle Editorial",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5834,
+    "title": "Les singularitats",
+    "author": "Banville, Johm",
+    "editionId": 5772,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/81i9pZbu4sL._SY425_.jpg",
+    "publisher": "Bromera",
+    "year": 1970,
+    "totalVotes": 0
+  },
+  {
+    "id": 5835,
+    "title": "Murtagh",
+    "author": "Paolini, Christopher",
+    "editionId": 5777,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/915HF+-0PzL._SY425_.jpg",
+    "publisher": "Roca",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5836,
+    "title": "Stranger Things. El vol d\u0027Ícar",
+    "author": "Schneiderhan, Caitlin",
+    "editionId": 5782,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/51012ujs70L._SY445_SX342_.jpg",
+    "publisher": "Columna Edicions",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5837,
+    "title": "La companyia dels llops",
+    "author": "Carter, Angela",
+    "editionId": 5787,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://m.media-amazon.com/images/I/5138yEvsaLL._SY466_.jpg",
+    "publisher": "Comanegra",
+    "year": 2023,
+    "totalVotes": 0
+  },
+  {
+    "id": 5847,
+    "title": "El fill petit perd el seu vaixell cap a les creuades i altres textos",
+    "author": "Diversos autors",
+    "editionId": 5827,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691431231i/195874516.jpg",
+    "publisher": "Edicions SECC",
+    "year": 2023,
+    "totalVotes": 0
   },
   {
     "id": 3377,
@@ -3636,8 +3650,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/els-desposseïts(raig-verd).jpg",
     "publisher": "Raig Verd",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3380,
@@ -3650,8 +3663,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/alba(mai-més-llibres).jpg",
     "publisher": "Mai Més",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3381,
@@ -3664,8 +3676,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51V5YCUkz+L.jpg",
     "publisher": "Quaderns Crem",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3400,
@@ -3678,8 +3689,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/frankenstein(la-butxaca).jpg",
     "publisher": "La Butxaca",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3410,
@@ -3692,8 +3702,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638463532l/59725615.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3417,
@@ -3706,8 +3715,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634082111l/59339146._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3442,
@@ -3720,8 +3728,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605375205l/55889956._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3453,
@@ -3734,8 +3741,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590690062l/53578698._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3456,
@@ -3748,8 +3754,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2020/02/Coberta_UN-MAG-DE-TERRAMAR_UDL-668x1024.jpg",
     "publisher": "Raig Verd",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3267,
@@ -3762,8 +3767,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/procés-de-contradicció-suficient(orciny-press).jpg",
     "publisher": "Orciny Press",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3268,
@@ -3776,8 +3780,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/un-intrús-a-l-estany(edicions-62).jpg",
     "publisher": "Edicions 62",
     "year": 2011,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3271,
@@ -3790,8 +3793,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/terra-promesa(voliana).jpeg",
     "publisher": "Voliana",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3274,
@@ -3804,8 +3806,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/l-eco-del-temps(voliana).png",
     "publisher": "Voliana",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3275,
@@ -3818,8 +3819,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/arc-de-sant-martí(editorial-maia).jpeg",
     "publisher": "Editorial Maia",
     "year": 1992,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3276,
@@ -3832,8 +3832,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/homes-artificials(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2009,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3277,
@@ -3846,8 +3845,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/simulacions-de-vida(males-herbes).png",
     "publisher": "Males Herbes",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3279,
@@ -3860,8 +3858,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/traficants-de-llegendes(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2004,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3280,
@@ -3874,8 +3871,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/bioko(amsterdam).jpg",
     "publisher": "Amsterdam",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3281,
@@ -3888,8 +3884,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-joc-de-déu(bromera).jpg",
     "publisher": "Bromera",
     "year": 2010,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3282,
@@ -3902,8 +3897,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-febre-del-vapor(pagès).jpg",
     "publisher": "Pagès Editors",
     "year": 2011,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3284,
@@ -3916,8 +3910,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/tèrmits-del-formigó(sb-e-books).jpg",
     "publisher": "SB e-books",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3285,
@@ -3930,8 +3923,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/faula(lleonard-muntaner).jpg",
     "publisher": "Lleonard Muntaner",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3286,
@@ -3944,8 +3936,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-màquina-de-les-ànimes(destino).jpeg",
     "publisher": "Destino",
     "year": 2001,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3287,
@@ -3958,8 +3949,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/aquesta-matinada-i-potser-per-sempre(galba-edicions).jpg",
     "publisher": "Galba Edicions",
     "year": 1980,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3289,
@@ -3972,8 +3962,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-vent-entre-els-saguaros(pagès).jpg",
     "publisher": "Pagès Editors",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3291,
@@ -3986,8 +3975,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41DtNqp6vyL.jpg",
     "publisher": "Pagès Editors",
     "year": 1996,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3293,
@@ -4000,8 +3988,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-cementiri(edicions-62).jpg",
     "publisher": "Edicions 62",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3294,
@@ -4014,8 +4001,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/l-olor-de-la-pluja(la-magrana).jpg",
     "publisher": "La Magrana",
     "year": 2006,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3295,
@@ -4028,8 +4014,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/deu-relats-ecofuturistes(males-herbes).jpeg",
     "publisher": "Males Herbes",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3296,
@@ -4042,8 +4027,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/aiguafang(magrana).jpg",
     "publisher": "La Magrana",
     "year": 2008,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3297,
@@ -4056,8 +4040,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-crit-de-les-ultracoses(curbet-edicions).jpg",
     "publisher": "Curbet Edicions",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3298,
@@ -4070,8 +4053,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-regal-de-gliese(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3299,
@@ -4084,8 +4066,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71btBdM6UNL.jpg",
     "publisher": "Empúries",
     "year": 1996,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3301,
@@ -4098,8 +4079,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/sirius-4(novum-publishing).jpg",
     "publisher": "Novum Publishing",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3302,
@@ -4112,8 +4092,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/hipnofòbia(proa).jpg",
     "publisher": "Proa",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3303,
@@ -4126,8 +4105,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51fEV-VFsiL.jpg",
     "publisher": "Empúries",
     "year": 1997,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3304,
@@ -4140,8 +4118,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-cant-de-les-dunes(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2006,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3305,
@@ -4154,8 +4131,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/mugrons-de-titani(bromera).jpg",
     "publisher": "Bromera",
     "year": 2005,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3306,
@@ -4168,8 +4144,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/hawaii-meteor(tria-llibres).jpg",
     "publisher": "Tria Llibres",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3307,
@@ -4182,8 +4157,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/res-no-és-real(males-herbes).png",
     "publisher": "Males Herbes",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3308,
@@ -4196,8 +4170,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/nit(voliana).jpg",
     "publisher": "Voliana",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3309,
@@ -4210,8 +4183,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/mentre-el-món-explota(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3310,
@@ -4224,8 +4196,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/llibre-de-tot(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 1994,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3311,
@@ -4238,8 +4209,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-somriure-d-un-eco(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3312,
@@ -4252,8 +4222,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/testimoni-de-narom(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2000,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3313,
@@ -4266,8 +4235,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/100.000-candeles(males-herbes).png",
     "publisher": "Males Herbes",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3314,
@@ -4280,8 +4248,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/estats-alterats-de-la-ment(males-herbes).jpeg",
     "publisher": "Males Herbes",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3315,
@@ -4294,8 +4261,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71kb7A8YYKL.jpg",
     "publisher": "Edicions del Bullent",
     "year": 2003,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3317,
@@ -4308,8 +4274,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/herba-negra(fanbooks).jpg",
     "publisher": "Fanbooks",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3318,
@@ -4322,8 +4287,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/4171(cruïlla).jpg",
     "publisher": "Cruïlla",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3319,
@@ -4336,8 +4300,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/ullals(la-galera).png",
     "publisher": "La galera",
     "year": 2011,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3320,
@@ -4350,8 +4313,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/tilepadeion-sé-què-penses(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3321,
@@ -4364,8 +4326,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/schizoid(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2004,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3322,
@@ -4378,8 +4339,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/afores(edicions-del-1984).jpg",
     "publisher": "Edicions del 1984",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3323,
@@ -4392,8 +4352,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/sang-freda(alrevés-editorial-).jpeg",
     "publisher": "Alrevés Editorial ",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3324,
@@ -4406,8 +4365,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/segui-vora-el-foc(amsterdam).jpg",
     "publisher": "Amsterdam",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3325,
@@ -4420,8 +4378,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/aquell-d-allà-no-sóc-jo(columna).jpg",
     "publisher": "Columna",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3326,
@@ -4434,8 +4391,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/certificat-c99+(la-galera).jpg",
     "publisher": "La galera",
     "year": 2008,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3327,
@@ -4448,8 +4404,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-ciutadà-perfecte(andana-editorial).jpeg",
     "publisher": "Andana Editorial",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3328,
@@ -4462,8 +4417,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/estirant-el-fil-escarlata(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3329,
@@ -4476,8 +4430,7 @@ var list = [
     "imageUrl": "../resources/img/el contracte wong.jpg",
     "publisher": "Pagès Editors",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3330,
@@ -4490,8 +4443,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-camí-de-la-pesta(capital-books).jpg",
     "publisher": "Capital Books",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3331,
@@ -4504,8 +4456,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/los-del-sud-us-matarem-a-tots(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3332,
@@ -4518,8 +4469,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/somnis-entre-anells(puv).jpg",
     "publisher": "PUV",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3334,
@@ -4532,8 +4482,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-dia-del-cérvol(l-altra-editorial).jpg",
     "publisher": "L\u0027Altra Editorial",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3335,
@@ -4546,8 +4495,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/ígur-neblí(proa).jpeg",
     "publisher": "Proa",
     "year": 1994,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3336,
@@ -4560,8 +4508,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/618np6TtB6L.jpg",
     "publisher": "Empúries",
     "year": 1996,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3337,
@@ -4574,8 +4521,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/els-enemics-silenciosos(columna).jpg",
     "publisher": "Columna",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3338,
@@ -4588,8 +4534,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81NTxvbAQBL.jpg",
     "publisher": "Proa",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3339,
@@ -4602,8 +4547,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91dAX4aTN6L.jpg",
     "publisher": "Editorial Bambú",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3340,
@@ -4616,8 +4560,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/hem-arribat-tard-a-classe(voliana).jpg",
     "publisher": "Voliana",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3341,
@@ -4630,8 +4573,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/arnes(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3342,
@@ -4644,8 +4586,7 @@ var list = [
     "imageUrl": "https://fantraginers.cat/wp-content/uploads/2018/05/astralcanaes_portada.jpg",
     "publisher": "Fantraginers",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3343,
@@ -4658,8 +4599,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/monstruari(edicions-secc).jpeg",
     "publisher": "Edicions SECC",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3344,
@@ -4672,8 +4612,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/visions-del-purgatori(males-herbes).png",
     "publisher": "Males Herbes",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3345,
@@ -4686,8 +4625,7 @@ var list = [
     "imageUrl": "../resources/img/estació boira.jpg",
     "publisher": "Males Herbes",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3346,
@@ -4700,8 +4638,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-pista-d-una-morta(editorial-gregal).jpg",
     "publisher": "Editorial Gregal",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3347,
@@ -4714,8 +4651,7 @@ var list = [
     "imageUrl": "../resources/img/jo soc aquell que va matar franco.jpg",
     "publisher": "Proa",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3348,
@@ -4728,8 +4664,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/alexandra-schneider-und-ihr-casiotone(l-altra-editorial).jpg",
     "publisher": "L\u0027Altra Editorial",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3349,
@@ -4742,8 +4677,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-món-fosc.-talps.(jo-llibre).jpg",
     "publisher": "Jo llibre",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3350,
@@ -4756,8 +4690,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/els-secrets-del-planeta-mots(editorial-gregal).webp",
     "publisher": "Editorial Gregal",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3351,
@@ -4770,8 +4703,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/quimera(onada-edicions).jpg",
     "publisher": "Onada Edicions",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3353,
@@ -4784,8 +4716,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/relats-d-un-futur-imperfecte(edelvives).jpeg",
     "publisher": "Edelvives",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3355,
@@ -4798,8 +4729,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/l-empremta-de-saturn(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3356,
@@ -4812,8 +4742,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/carnada(bridge).jpg",
     "publisher": "Bridge",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3357,
@@ -4826,8 +4755,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/bestiari(edicions-secc).jpeg",
     "publisher": "Edicions SECC",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3358,
@@ -4840,8 +4768,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/terra-inhòspita-barcelona-2048(periscopi).jpg",
     "publisher": "Periscopi",
     "year": 2013,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3359,
@@ -4854,8 +4781,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/àliens(fanbooks).jpg",
     "publisher": "Fanbooks",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3360,
@@ -4868,8 +4794,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-república-pneumàtica-ball-de-serps(cruïlla).jpg",
     "publisher": "Cruïlla",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3361,
@@ -4882,8 +4807,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61MHBI2IZzL.jpg",
     "publisher": "Orciny Press",
     "year": 2015,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3363,
@@ -4896,8 +4820,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/consciència(empúries).jpg",
     "publisher": "Empúries",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3364,
@@ -4910,8 +4833,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la%20ciutat%20dels%20joves%20-%20males%20herbes.png",
     "publisher": "Males Herbes",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3365,
@@ -4924,8 +4846,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/lítica(males-herbes).png",
     "publisher": "Males Herbes",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3366,
@@ -4938,8 +4859,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91dBbGZVFgL.jpg",
     "publisher": "Columna",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3367,
@@ -4952,8 +4872,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/quim-quima(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3369,
@@ -4966,8 +4885,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/introducció-a-l-ombra(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2016,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3370,
@@ -4980,8 +4898,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/òxid-sobre-òxids(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3371,
@@ -4994,8 +4911,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/els-fills-de-l-atzar(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3372,
@@ -5008,8 +4924,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/els-viatgers-de-la-negra-nit-(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2006,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3373,
@@ -5022,8 +4937,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-mirall-de-protozous(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2003,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3374,
@@ -5036,8 +4950,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-meva-àvia,-la-planta(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2000,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3375,
@@ -5050,8 +4963,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/més-enllà-de-l-equació-qwr(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 1992,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3464,
@@ -5064,8 +4976,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634283569l/59352029.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3465,
@@ -5078,8 +4989,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/sabres-de-sal(edicions-secc).jpg",
     "publisher": "Edicions Secc",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3466,
@@ -5092,8 +5002,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632742554l/59084304._SY475_.jpg",
     "publisher": "Pathosformel",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3467,
@@ -5106,8 +5015,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630364782l/58894195._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3468,
@@ -5120,8 +5028,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634074659l/59338738.jpg",
     "publisher": "Pagès Editors",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3469,
@@ -5134,8 +5041,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632550903l/59071689._SX318_.jpg",
     "publisher": "Fanbooks",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3470,
@@ -5148,8 +5054,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630519478l/58906674._SX318_.jpg",
     "publisher": "Columna Edicions",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3471,
@@ -5162,8 +5067,7 @@ var list = [
     "imageUrl": "https://clubeditor.cat/wp-content/uploads/2021/08/Junil_Coberta-scaled.jpg",
     "publisher": "Club editor",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3472,
@@ -5176,8 +5080,7 @@ var list = [
     "imageUrl": "https://mesllibres.cat/coberta/9788417353322",
     "publisher": "Més Llibres",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3473,
@@ -5190,8 +5093,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630078035l/58869475.jpg",
     "publisher": "Males Herbes",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3474,
@@ -5204,8 +5106,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624833246l/58442017._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3475,
@@ -5218,8 +5119,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624867992l/58444722._SY475_.jpg",
     "publisher": "Males Herbes",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3476,
@@ -5232,8 +5132,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619811728l/57903557._SY475_.jpg",
     "publisher": "Males Herbes",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3477,
@@ -5246,8 +5145,7 @@ var list = [
     "imageUrl": "https://pbs.twimg.com/media/FHygfOrXsAEJiv6?format\u003djpg\u0026name\u003d900x900",
     "publisher": "Voliana Edicions",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3478,
@@ -5260,8 +5158,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615494881l/57216214._SY475_.jpg",
     "publisher": "Edicions Secc",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3479,
@@ -5274,8 +5171,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615811322l/57422005._SY475_.jpg",
     "publisher": "Edicions Secc",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3480,
@@ -5288,8 +5184,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614111064l/57189488._SX318_.jpg",
     "publisher": "Fanbooks",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3482,
@@ -5302,8 +5197,7 @@ var list = [
     "imageUrl": "https://editorialmalesherbes.netlify.app/static/90e9dc9bf6c002196cab5b0fd4659eca/faef7/maquines_portada.webp",
     "publisher": "Males Herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3483,
@@ -5316,8 +5210,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603707238l/55790895._SY475_.jpg",
     "publisher": "Edicions Secc",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3484,
@@ -5330,8 +5223,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598636481l/55154569._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3485,
@@ -5344,8 +5236,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51h2GLNY4RL._SX350_BO1,204,203,200_.jpg",
     "publisher": "La Galera",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3487,
@@ -5358,8 +5249,7 @@ var list = [
     "imageUrl": "https://www.hermenaute.com/img/libros/arna-coberta.jpg",
     "publisher": "Hermenaute",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3488,
@@ -5372,8 +5262,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/41cL+hg5RoL.jpg",
     "publisher": "Autopublicat",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3489,
@@ -5386,8 +5275,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586266127l/53023413._SY475_.jpg",
     "publisher": "Orciny Press",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3490,
@@ -5400,8 +5288,7 @@ var list = [
     "imageUrl": "https://media.lektu.com/assets/u/hm/clon5_12884_KkOoBOhm.jpg",
     "publisher": "Joan López Rovira",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3491,
@@ -5414,8 +5301,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/extraordinaries.jpg",
     "publisher": "Males Herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3492,
@@ -5428,8 +5314,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61ZRmDc9j8L.jpg",
     "publisher": "Independent",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3493,
@@ -5442,8 +5327,7 @@ var list = [
     "imageUrl": "https://www.pageseditors.cat/media/catalog/product/cache/1/image/570x735/9df78eab33525d08d6e5fb8d27136e95/9/7/9788413031316_04_n_1.jpg",
     "publisher": "Pagès Editors",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3494,
@@ -5456,8 +5340,7 @@ var list = [
     "imageUrl": "https://www.circdelacultura.com/fotografies/mitjanes/d0707ae706f395b5bac83512b046.jpg",
     "publisher": "Angle Editorial",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3495,
@@ -5470,8 +5353,7 @@ var list = [
     "imageUrl": "https://www.mspublishers.com/wp-content/uploads/2019/08/Skordat_1.jpg",
     "publisher": "MS Publishers",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3496,
@@ -5484,8 +5366,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1559731913l/46154578.jpg",
     "publisher": "L\u0027altra editorial",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3497,
@@ -5498,8 +5379,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71wCMiwiRxS.jpg",
     "publisher": "Editorial Gregal",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3499,
@@ -5512,8 +5392,7 @@ var list = [
     "imageUrl": "https://pbs.twimg.com/media/D6DYOPpXoAAM3k4?format\u003djpg\u0026name\u003d4096x4096",
     "publisher": "Hermenaute",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3500,
@@ -5526,8 +5405,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1551105505l/44129893.jpg",
     "publisher": "Ara Llibres",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3501,
@@ -5540,8 +5418,7 @@ var list = [
     "imageUrl": "https://static1grup62cat.cdnstatics.com/usuaris/libros/fotos/291/m_libros/portada_tots-els-simbols-de-la-por_salvador-macip_201812201813.jpg",
     "publisher": "Fanbooks",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3502,
@@ -5554,8 +5431,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1552663302l/44436262.jpg",
     "publisher": "Edicions Secc",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3503,
@@ -5568,8 +5444,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1547655394l/43591447.jpg",
     "publisher": "Edicions Secc",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3513,
@@ -5582,8 +5457,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2021/06/Somia-Philip-Marlowe-amb-xais-ele%CC%80ctrics_-150-635x1024.jpg",
     "publisher": "Crims.cat",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3592,
@@ -5596,8 +5470,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71EzADK6cSL.jpg",
     "publisher": "Pagès Editors",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3593,
@@ -5610,8 +5483,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51EPBXaYstL.jpg",
     "publisher": "La Butxaca",
     "year": 2012,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3594,
@@ -5624,8 +5496,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71dkH7aEBqL.jpg",
     "publisher": "Voliana",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3595,
@@ -5638,8 +5509,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/71PdEeuevnL.jpg",
     "publisher": "Columna",
     "year": 2003,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3604,
@@ -5652,8 +5522,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1549199522l/43821116.jpg",
     "publisher": "Editorial Gregal",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3605,
@@ -5666,8 +5535,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1543019162l/42939594.jpg",
     "publisher": "La Campana",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3606,
@@ -5680,8 +5548,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1550698692l/42090109.jpg",
     "publisher": "EDM Edicions",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3607,
@@ -5694,8 +5561,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1546046565l/43383471.jpg",
     "publisher": "Edicions Secc",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3608,
@@ -5708,8 +5574,7 @@ var list = [
     "imageUrl": "https://4.bp.blogspot.com/-e68Oi8CDS4M/W6vFsP_IQ4I/AAAAAAAABU8/9t1ZtPTXuQE46J_GRqEXQIhFu8pmw1E5QCLcBGAs/s1600/fills-de-la-setena-onada_salvador-macip.jpg",
     "publisher": "Fanbooks",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3609,
@@ -5722,8 +5587,7 @@ var list = [
     "imageUrl": "https://3.bp.blogspot.com/-l8-D8Uqp4Gs/WuWMz506lLI/AAAAAAAABQE/pg_2kfVbOps0Q4O0ybifI8oWp5ZTnz2JQCLcBGAs/s1600/negorith.jpg",
     "publisher": "Bridge Editorial",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3610,
@@ -5736,8 +5600,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1518099867l/38461273.jpg",
     "publisher": "Edicions Secc",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3611,
@@ -5750,8 +5613,7 @@ var list = [
     "imageUrl": "https://2.bp.blogspot.com/-UPa4rSZmj30/WpBE6YzFIFI/AAAAAAAABNw/zii8w9BX03MqPokonCHeIHU0QG_WR8IQgCLcBGAs/s1600/encontre%2Bancestral.jpg",
     "publisher": "Fantraginers",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3612,
@@ -5764,8 +5626,7 @@ var list = [
     "imageUrl": "http://www.tripode.cat/wp-content/uploads/2019/01/portada-escrivent-petit.jpg",
     "publisher": "Editorial Tripode",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3613,
@@ -5778,8 +5639,7 @@ var list = [
     "imageUrl": "https://4.bp.blogspot.com/-w44GjjiCaCM/WnrTC0cNahI/AAAAAAAABLo/xLmrxlOBhZM93FkX-eY30xZI5HG_az56wCLcBGAs/s1600/inquietanca%2B%2528digital%2529.jpg",
     "publisher": "Voliana Edicions",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3614,
@@ -5792,8 +5652,7 @@ var list = [
     "imageUrl": "https://images.gr-assets.com/books/1500465130l/35705003.jpg",
     "publisher": "Edicions Secc",
     "year": 2017,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3376,
@@ -5806,8 +5665,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-fi-de-l-eternitat(la-magrana).jpg",
     "publisher": "La Magrana",
     "year": 2000,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3378,
@@ -5820,8 +5678,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/1984(la-butxaca).jpg",
     "publisher": "La Butxaca",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3382,
@@ -5834,8 +5691,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/encontre-amb-rama(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1989,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3384,
@@ -5848,8 +5704,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51f51zdlfgL.jpg",
     "publisher": "Males Herbes",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3385,
@@ -5862,8 +5717,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/el-rastre-del-llamp(mai-més-llibres).jpg",
     "publisher": "Mai Més",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3387,
@@ -5876,8 +5730,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/tropes-de-l-espai(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1988,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3388,
@@ -5890,8 +5743,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51bYwKKXdKL.jpg",
     "publisher": "Raig Verd",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3389,
@@ -5904,8 +5756,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/51QZzrPQlOL.jpg",
     "publisher": "La Campana",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3390,
@@ -5918,8 +5769,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/274/m_libros/portada_maquines-mortals_nuria-pares-sellares_201807101429.jpg",
     "publisher": "Fanbooks",
     "year": 2018,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3391,
@@ -5932,8 +5782,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/l-home-femella(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1984,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3392,
@@ -5946,8 +5795,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/relacions-estranyes(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1985,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3393,
@@ -5960,8 +5808,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-carretera(edicions-62).jpg",
     "publisher": "Edicions 62",
     "year": 2011,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3394,
@@ -5974,8 +5821,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/quatre-(saga-divergent)(fanbooks).jpg",
     "publisher": "Fanbooks",
     "year": 2014,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3395,
@@ -5988,8 +5834,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/l-home-il·lustrat(males-herbes).jpg",
     "publisher": "Males Herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3396,
@@ -6002,8 +5847,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/jo-robot(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1984,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3397,
@@ -6016,8 +5860,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/fins-i-tot-els-déus(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1986,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3398,
@@ -6030,8 +5873,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-guerra-dels-mons(pleniluni).jpg",
     "publisher": "Pleniluni",
     "year": 1998,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3399,
@@ -6044,8 +5886,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/llengua-materna(chronos).jpg",
     "publisher": "Chronos",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3401,
@@ -6058,8 +5899,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/la-màquina-del-temps(estrella-polar).jpg",
     "publisher": "Estrella Polar",
     "year": 2009,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3409,
@@ -6072,8 +5912,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633437417l/59221086._SY475_.jpg",
     "publisher": "Raig Verd, Mai Més Llibres",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3411,
@@ -6086,8 +5925,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639804249l/59844099._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3412,
@@ -6100,8 +5938,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637006005l/59632782.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3413,
@@ -6114,8 +5951,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637005898l/59632776.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3414,
@@ -6128,8 +5964,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636757177l/59603827.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3415,
@@ -6142,8 +5977,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636101462l/59543968._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3416,
@@ -6156,8 +5990,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633076001l/59124428._SX318_.jpg",
     "publisher": "Chronos",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3418,
@@ -6170,8 +6003,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639736838l/59839573._SY475_.jpg",
     "publisher": "Edicions Secc",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3419,
@@ -6184,8 +6016,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635348747l/59464190._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3420,
@@ -6198,8 +6029,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633972759l/59317703.jpg",
     "publisher": "Males Herbes",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3421,
@@ -6212,8 +6042,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/61EjretETHS.jpg",
     "publisher": "Independent",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3422,
@@ -6226,8 +6055,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626100757l/58543001._SX318_.jpg",
     "publisher": "Chronos",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3423,
@@ -6240,8 +6068,7 @@ var list = [
     "imageUrl": "https://www.abacus.coop/dw/image/v2/BDLM_PRD/on/demandware.static/-/Sites-AbacusMaster/default/dwd47ce65d/images/large/1376445.46.jpg",
     "publisher": "Kalandraka",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3424,
@@ -6254,8 +6081,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/81N1DYcFeAL.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3425,
@@ -6268,8 +6094,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631375284l/58972775._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3426,
@@ -6282,8 +6107,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625156646l/58467449._SY475_.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3427,
@@ -6296,8 +6120,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619850877l/57907490.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3428,
@@ -6310,8 +6133,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621377510l/58091354._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3429,
@@ -6324,8 +6146,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622648152l/58245029._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3430,
@@ -6338,8 +6159,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41+I17WhwqS._SX318_BO1,204,203,200_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3431,
@@ -6352,8 +6172,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616597163l/57515282._SX318_.jpg",
     "publisher": "Chronos",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3432,
@@ -6366,8 +6185,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614623528l/57265284.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3433,
@@ -6380,8 +6198,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616609709l/57517184._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3434,
@@ -6394,8 +6211,7 @@ var list = [
     "imageUrl": "https://llegirencatala.cat/wp-content/uploads/2021/03/ritus-de-ledat-adutla-octavia-butler-mai-mes-698x1024.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3435,
@@ -6408,8 +6224,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613688169l/57121729._SY475_.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3436,
@@ -6422,8 +6237,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614278487l/57207386._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3437,
@@ -6436,8 +6250,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611297750l/56780350._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3438,
@@ -6450,8 +6263,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/wr/lexorcista_16840_TQn8mQwR.jpg",
     "publisher": "Obscura Editorial",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3439,
@@ -6464,8 +6276,7 @@ var list = [
     "imageUrl": "http://www.raigverdeditorial.cat/wp-content/uploads//2020/12/Portada-Tan-a-prop-de-la-vida_web-1-205x300.jpg",
     "publisher": "Raig Verd",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3440,
@@ -6478,8 +6289,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613384576l/57071569._SY475_.jpg",
     "publisher": "Fanbooks",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3441,
@@ -6492,8 +6302,7 @@ var list = [
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81UwoEu8y0L.jpg",
     "publisher": "Angle Editorial",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3443,
@@ -6506,8 +6315,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605008267l/55877069.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3444,
@@ -6520,8 +6328,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603439136l/55770745._SY475_.jpg",
     "publisher": "Les altres herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3445,
@@ -6534,8 +6341,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603478338l/55774982._SY475_.jpg",
     "publisher": "L\u0027Arcà",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3446,
@@ -6548,8 +6354,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600621825l/55386666._SY475_.jpg",
     "publisher": "Males Herbes",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3447,
@@ -6562,8 +6367,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/321/m_libros/portada_sol-de-mitjanit__202006261223.jpg",
     "publisher": "Fanbooks",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3448,
@@ -6576,8 +6380,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2020/09/Exhalacio%CC%81-Ted_Chiang-Coberta_WEB.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3449,
@@ -6590,8 +6393,7 @@ var list = [
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/1s/WnebsG9lXtvDq8EbA01s.jpg",
     "publisher": "Chronos",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3450,
@@ -6604,8 +6406,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598822696l/55173261._SY475_.jpg",
     "publisher": "Raig Verd",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3451,
@@ -6618,8 +6419,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594853683l/54546658._SY475_.jpg",
     "publisher": "Paper de Tigre",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3452,
@@ -6632,8 +6432,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/311/original/portada_el-final-i-altres-principis_nuria-pares-sellares_201912262308.jpg",
     "publisher": "Fanbooks",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3454,
@@ -6646,8 +6445,7 @@ var list = [
     "imageUrl": "https://www.maimes.cat/wp-content/uploads/2020/03/Aixi_es_perd_la_guerra_del_temps-Coberta_web.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3455,
@@ -6660,8 +6458,7 @@ var list = [
     "imageUrl": "https://grup62cat.cdnstatics2.com/usuaris/libros/fotos/316/original/315366_portada_balada-docells-i-serps_suzanne-collins_202004281037.jpeg",
     "publisher": "Fanbooks",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3504,
@@ -6674,8 +6471,7 @@ var list = [
     "imageUrl": "https://www.amsterdamllibres.cat/wp-content/uploads/Piranesi-trade.jpg",
     "publisher": "Amsterdam",
     "year": 2021,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3515,
@@ -6688,8 +6484,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577973820l/50249904._SY475_.jpg",
     "publisher": "Mai Més",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3556,
@@ -6702,8 +6497,7 @@ var list = [
     "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/neuromàntic-(pagès-editors).jpg",
     "publisher": "Pagès Editors",
     "year": 2020,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3596,
@@ -6716,8 +6510,7 @@ var list = [
     "imageUrl": "https://m.media-amazon.com/images/I/91GpKHtL8cL.jpg",
     "publisher": "Educaula62",
     "year": 2009,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3624,
@@ -6730,8 +6523,7 @@ var list = [
     "imageUrl": "https://pbs.twimg.com/media/EHhRulTWsAExWmQ?format\u003djpg\u0026name\u003dmedium",
     "publisher": "Edicions SECC",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3625,
@@ -6744,8 +6536,7 @@ var list = [
     "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574094619l/48878675._SX318_.jpg",
     "publisher": "Chronos",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   },
   {
     "id": 3626,
@@ -6758,7 +6549,6 @@ var list = [
     "imageUrl": "https://media.lektu.com/assets/u/8j/la_ciutat_i_la_ciutat_lamina_marina_vidal_12235_k1XFOl8j.jpg",
     "publisher": "Mai Més",
     "year": 2019,
-    "totalVotes": 0,
-    "averagePoints": 0.00
+    "totalVotes": 0
   }
 ];
