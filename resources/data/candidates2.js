@@ -3640,6 +3640,19 @@ var list = [
     "totalVotes": 0
   },
   {
+    "id": 6001,
+    "title": "El problema dels tres cossos",
+    "author": "Liu, Cixin",
+    "editionId": 5660,
+    "isPopular": false,
+    "isNew": true,
+    "isTranslation": true,
+    "imageUrl": "https://mcusercontent.com/7b06e9417dd4906b3e164f7c4/images/09a0e20d-08b2-7251-31a6-87c3d9414e51.jpg",
+    "publisher": "Duna Llibres",
+    "year": 2024,
+    "totalVotes": 0
+  },
+  {
     "id": 3377,
     "title": "Els desposseïts",
     "author": "Le Guin, Ursula K.",
@@ -6203,7 +6216,7 @@ var list = [
   {
     "id": 3434,
     "title": "Ritus de l\u0027edad adulta",
-    "author": "Butler, Octavia E. ",
+    "author": "Butler, Octavia E.",
     "editionId": 1563,
     "isPopular": false,
     "isNew": false,
