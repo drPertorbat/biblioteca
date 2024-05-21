@@ -1300,19 +1300,6 @@ var list = [
     "totalVotes": 0
   },
   {
-    "id": 6019,
-    "title": "Glitch",
-    "author": "Casas Agustí, Raquel",
-    "editionId": 6014,
-    "isPopular": false,
-    "isNew": true,
-    "isTranslation": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/61GVXeNy8gL._SL1050_.jpg",
-    "publisher": "Pagès Editors",
-    "year": 2024,
-    "totalVotes": 0
-  },
-  {
     "id": 6020,
     "title": "El darrer foc",
     "author": "Casal, Joaquim",
@@ -6771,5 +6758,18 @@ var list = [
     "publisher": "Mai Més",
     "year": 2019,
     "totalVotes": 0
-  }
+  },
+  {
+	    "id": 6019,
+	    "title": "Glitch",
+	    "author": "Casas Agustí, Raquel",
+	    "editionId": 6014,
+	    "isPopular": false,
+	    "isNew": true,
+	    "isTranslation": false,
+	    "imageUrl": "https://m.media-amazon.com/images/I/61GVXeNy8gL._SL1050_.jpg",
+	    "publisher": "Pagès Editors",
+	    "year": 2024,
+	    "totalVotes": 0
+	  }
 ];
