@@ -410,3 +410,6 @@ https://drpertorbat.github.io/biblioteca/llibres/raig-verd/binti---casa.html
 https://drpertorbat.github.io/biblioteca/llibres/obscura-editorial/l-exorcista.html
 https://drpertorbat.github.io/biblioteca/llibres/pages-editors/glitch.html
 https://drpertorbat.github.io/biblioteca/persones/nnedi-okorafor.html
+https://drpertorbat.github.io/biblioteca/llibres/chronos/els-caiguts.html
+https://drpertorbat.github.io/biblioteca/llibres/chronos/l-extern.html
+https://drpertorbat.github.io/biblioteca/llibres/chronos/l-infinit.html
