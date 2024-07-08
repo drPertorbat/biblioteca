@@ -425,7 +425,6 @@ https://drpertorbat.github.io/biblioteca/llibres/obscura-editorial/que-mou-els-m
 https://drpertorbat.github.io/biblioteca/llibres/catedral/mites-nordics.html
 https://drpertorbat.github.io/biblioteca/llibres/edicions-secc/xiuxiuejos-terrorifics.html
 https://drpertorbat.github.io/biblioteca/llibres/edicions-secc/sistemes-operatius-alternatius.html
-https://drpertorbat.github.io/biblioteca/llibres/ara-llibres/frankenstein-a-bagdad.html
 https://drpertorbat.github.io/biblioteca/llibres/mai-mes/zoo-city.html
 https://drpertorbat.github.io/biblioteca/llibres/mai-mes/la-brigada-lluminosa.html
 https://drpertorbat.github.io/biblioteca/llibres/mai-mes/des-de-sempre-fins-a-l-infinit.html
@@ -433,3 +432,4 @@ https://drpertorbat.github.io/biblioteca/llibres/dolmen-editorial/davant-deus-in
 https://drpertorbat.github.io/biblioteca/llibres/anagrama/la-klara-i-el-sol.html
 https://drpertorbat.github.io/biblioteca/llibres/anagrama/no-em-deixis-mai.html
 https://drpertorbat.github.io/biblioteca/llibres/obscura-editorial/acars.html
+https://drpertorbat.github.io/biblioteca/llibres/amsterdam/frankenstein-a-bagdad.html
