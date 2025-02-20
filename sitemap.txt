@@ -526,3 +526,6 @@ https://drpertorbat.github.io/biblioteca/llibres/pages-editors/cronica-d-uns-qua
 https://drpertorbat.github.io/biblioteca/llibres/edicions-secc/els-hibrids-minvants.html
 https://drpertorbat.github.io/biblioteca/millor-fantastic/premis/ictineu/ictineu-2016.html
 https://drpertorbat.github.io/biblioteca/millor-fantastic/premis/premis-nebula.html
+https://drpertorbat.github.io/biblioteca/llibres/viena-editorial/dracula.html
+https://drpertorbat.github.io/biblioteca/llibres/pages-editors/l-home-dins-el-laberint.html
+https://drpertorbat.github.io/biblioteca/llibres/laia/la-porta-dels-mons.html
