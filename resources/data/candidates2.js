@@ -2093,19 +2093,6 @@ var list = [
     "totalVotes": 0
   },
   {
-    "id": 3403,
-    "title": "Neverwhere. Sota Londres",
-    "author": "Gaiman, Neil",
-    "editionId": 1442,
-    "isPopular": false,
-    "isNew": true,
-    "isTranslation": true,
-    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643277371l/60223254._SY475_.jpg",
-    "publisher": "Obscura Editorial",
-    "year": 2022,
-    "totalVotes": 0
-  },
-  {
     "id": 3404,
     "title": "Zoo City",
     "author": "Beukers, Lauren",
@@ -2804,19 +2791,6 @@ var list = [
     "isTranslation": true,
     "imageUrl": "https://m.media-amazon.com/images/I/61Zhp6AzGUL.jpg",
     "publisher": "Duna editorial",
-    "year": 2023,
-    "totalVotes": 0
-  },
-  {
-    "id": 3618,
-    "title": "L\u0027ocea al final del camí",
-    "author": "Gaiman, Neil",
-    "editionId": 2490,
-    "isPopular": false,
-    "isNew": true,
-    "isTranslation": true,
-    "imageUrl": "https://m.media-amazon.com/images/I/61A7yMue0DL.jpg",
-    "publisher": "Obscura Editorial",
     "year": 2023,
     "totalVotes": 0
   },
@@ -4169,19 +4143,6 @@ var list = [
     "isTranslation": true,
     "imageUrl": "https://lektu-p.fra1.cdn.digitaloceanspaces.com/assets/u/oj/apendre_si_tenim_sort_22880_7ut8JoOj.jpg",
     "publisher": "Mai Més",
-    "year": 2024,
-    "totalVotes": 0
-  },
-  {
-    "id": 6035,
-    "title": "Stardust. Una aventura escrita als estels",
-    "author": "Gaiman, Neil",
-    "editionId": 5976,
-    "isPopular": false,
-    "isNew": true,
-    "isTranslation": true,
-    "imageUrl": "https://drpertorbat.github.io/biblioteca/resources/img/stardust.-una-aventura-escrita-als-estels(obscura-editorial).jpeg",
-    "publisher": "Obscura Editorial",
     "year": 2024,
     "totalVotes": 0
   },
