@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ca">
+    <head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37679461-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+		
+		  	gtag('config', 'UA-37679461-2');
+		</script>
+		
+        <title>Vota el millor fantàstic en català</title>
+        <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Vota les millors obres de ciènca-ficció i fantasia en català">
+  		<meta name="keywords" content="llibre, ciència-ficció, fantasia, fantàstic, català, Rucs Elèctrics, biblioteca">
+        <meta property="og:title" content="La biblioteca dels Rucs Elèctrics - Originals">
+  		<meta property="og:description" content="Vota les millors obres de ciènca-ficció i fantasia en català">
+		<meta property="og:url" content="https://drpertorbat.github.io/biblioteca/millor-fantastic/votacions.html">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script  src="../resources/js/recomanador.js" ></script>
+        <script  src="../resources/data/recomanacions.js" ></script>
+        <link href="https://fonts.googleapis.com/css?family=Play:400,700&display=swap" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="../resources/css/style.css"/>
+        
+    </head>
+    <body>
+	   	<style>
+			#poll .btn, #result .btn {
+				width: 75%;
+				margin: 5px 0;
+			}		
+			
+			#carouselExampleCaptions {
+				max-width: 475px;
+				margin: 5px auto;
+			}
+			
+			.car-portada {
+				height: 450px;
+				width: 280px;
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				margin: 0 auto;
+			}
+			
+			.carousel-caption {
+				color: black;
+				position: unset;
+				max-width: 70%;
+    			margin: 0 auto;
+    			height: 180px;
+			}
+			
+			
+			.carousel-control-prev, a.carousel-control-next {
+			    background-color: black;
+			    height: 50px;
+    			margin: auto;
+			} 
+	
+	   	</style>
+        <div class="header">
+            <div class="title">La biblioteca dels Rucs Elèctrics</div>
+	        <ul>
+	            <li><a title="La Biblioreca dels Rucs elèctrics" href="../index.html">Inici</a></li>
+	            <li><a title="Obres fantàstiques originals en català" href="../originals.html">Originals</a></li>
+	            <li><a title="Obres fantàstiques traduides al català" href="../traduccions.html">Traduccions</a></li>
+	            <li><a title="Llista d'autors fantàstics" href="../autors.html">Autors</a></li>
+	            <li><a title="El millor del fantàstic en català" href="../salo-fama.html">Saló de la fama</a></li>
+	            <li><a title="Altres projectes" href="../altres.html">Altres</a></li>
+	            <li style="float: right; color: darkkhaki; margin-right: 5px">En construcció!</li>
+	        </ul>
+        </div>
+        <div class="container">
+			<h1 class="" style="margin: 0.5em 0; text-align: center">Recomanador de fantàstic en català</h1>
+			<div style="margin: 0.5em 0; text-align: center"> 
+				<p>Descobreix la teva propera lectura</p>
+			</div>
+			
+			<div id="startDiv" style="text-align: center;">
+				<button id="startBtn" type="button" class="btn btn-success">Comença!</button>
+			</div>
+            <div id="poll" class="lletres" style="display: none">
+           	 	<div id="poll1" class="button-container">
+	           	 	<div style="margin: 0.5em 0; text-align: center"> 
+						<p>Què et ve de gust llegir?</p>
+					</div>
+           	 		<div class="row" style="text-align: center;">
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="scifi">Ciència-ficció <span >&#128640;</span>​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="fantasia">Fantasia <span >&#128009;</span>​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="terror">Terror <span >&#128561;</span>​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="proper">Futur proper<span >&#128241;</span></button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="tastic" >Toc fantàstic <span >&#127879;</span></button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="0">Qualsevol<span >&#127775;</span></button>
+           	 			</div>
+       	 			</div>
+            	</div>
+            	<div id="poll2" class="button-container" style="display: none">
+	           	 	<div style="margin: 0.5em 0; text-align: center"> 
+						<p>Com vas de temps?</p>
+					</div>
+           	 		<div class="row" style="text-align: center;">
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="S">Llibre curt​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="M">Entremig</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="L">Un bon totxo ​</button>
+           	 			</div>
+           	 			<div class="col-lg-4 offset-lg-4 ">
+	           	 			<button type="button" class="btn btn-secondary" value="0">Tot em va bé</button>
+           	 			</div>
+       	 			</div>
+            	</div>	
+            	<div id="poll3" class="button-container" style="display: none">
+	           	 	<div style="margin: 0.5em 0; text-align: center"> 
+						<p>De quina època?</p>
+					</div>
+           	 		<div class="row"  style="text-align: center;">
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="CL">Un bon clàssic​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="MO">Un llibre més modern​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="AC">Acabat de sortir del forn</button>
+           	 			</div>           	 			
+           	 			<div class="col-lg-4 offset-lg-4 ">
+	           	 			<button type="button" class="btn btn-secondary" value="0">Indiferent</button>
+           	 			</div>
+       	 			</div>
+            	</div>	
+            	<div id="poll4" class="button-container" style="display: none">
+	           	 	<div style="margin: 0.5em 0; text-align: center"> 
+						<p>Originals o traduccions?</p>
+					</div>
+           	 		<div class="row" style="text-align: center;">
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="O">Autors locals​</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="T">Autors internacionals</button>
+           	 			</div>
+           	 			<div class="col-lg-4">
+	           	 			<button type="button" class="btn btn-secondary" value="0">De qualsevol lloc</button>
+           	 			</div>
+       	 			</div>
+            	</div>	            	
+			</div>
+			
+			<div id="result" style="display: none">
+				<div id="calulating">
+					<div style="margin: 0.5em 0; text-align: center"> 
+						<p>Estem revisant la biblioteca</p>
+					</div>
+				</div>
+				<div id="no-result">
+					<div style="margin: 0.5em 0; text-align: center"> 
+						<p>No tenim res a la biblioteca amb aquestes característiques</p>
+						<button type="button" class="btn btn-secondary restart" style="margin: auto; width: 180px; display: block;">Tornar a buscar</button>
+					</div>
+				</div>				
+				<div id="carouselExampleCaptions" class="carousel slide" style="display: none">
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<div class="car-portada" style="background-image: url('https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ho76vuxkpevd46wx72zi5ioj/bafkreifegndrrlaez3qbqq4j3qvrianq7qqzgiipbedpcvvp35aoccba4e@jpeg');"></div>
+							<div class="carousel-caption">
+								<h5>La paràbola dels talents</h5>
+								<h5>Diversos autors</h5>
+								<p>Mai més (2025)</p>
+								<a href="">Veure fitxa</a>
+							</div>
+						</div>						
+					</div>
+					<a class="carousel-control-prev" href="#carouselExampleCaptions"
+						role="button" data-slide="prev"> <span
+						class="carousel-control-prev-icon" aria-hidden="true"></span> <span
+						class="sr-only">Previous</span>
+					</a> <a class="carousel-control-next" href="#carouselExampleCaptions"
+						role="button" data-slide="next"> <span
+						class="carousel-control-next-icon" aria-hidden="true"></span> <span
+						class="sr-only">Next</span>
+					</a>
+					
+					<div class="row" style="text-align: center;">
+           	 			<div class="col-lg-6">
+	           	 			<button id="more" type="button" class="btn btn-secondary">Veure'n 3 més</button>
+           	 			</div>
+           	 			<div class="col-lg-6">
+	           	 			<button type="button" class="btn btn-secondary restart" >Tornar a buscar</button>
+           	 			</div>
+      	 			</div>
+					
+					
+				</div>
+		</div>
+		</div>
+		<br/>
+        <div class="footer">
+            Tota la ciència-ficció en català
+        </div>
+    </body>
+</html>
