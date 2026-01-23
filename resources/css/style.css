@@ -183,6 +183,44 @@ table th {
   	max-width: 600px;
   	height: 600px;
   }
+  
+/*   recomanador BEGIN */
+	#poll .btn, #result .btn {
+		width: 75%;
+		margin: 5px 0;
+	}		
+	
+	#carouselExampleCaptions {
+		max-width: 475px;
+		margin: 5px auto;
+	}
+	
+	.car-portada {
+		height: 450px;
+		width: 280px;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		margin: 0 auto;
+	}
+	
+	.carousel-caption {
+		color: black;
+		position: unset;
+		max-width: 70%;
+	 			margin: 0 auto;
+	 			height: 180px;
+	}
+
+
+	.carousel-control-prev, a.carousel-control-next {
+	    background-color: black;
+	    height: 50px;
+	 			margin: auto;
+	} 
+
+/*   recomanador ENDS */
+  
 @media screen and (max-width: 600px) {
   table {
     border: 0;
