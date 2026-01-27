@@ -137,7 +137,7 @@ function getRandomCandidate(candidates, top) {
 	if(top) {
 		max = candidats.map(c => c.tier).indexOf(2); //trobem tots els tier1
 		if(max < 3){
-			candidats.map(c => c.tier).indexOf(3); //incloure tier2
+			max = candidats.map(c => c.tier).indexOf(3); //incloure tier2
 		}
 		if(max < 0) {
 			max = candidates.length;
