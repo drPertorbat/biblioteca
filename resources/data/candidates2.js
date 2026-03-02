@@ -1755,19 +1755,6 @@ var list = [
     "totalVotes": 0
   },
   {
-    "id": 7866,
-    "title": "Glitch",
-    "author": "Casas Agustí, Raquel",
-    "editionId": 6014,
-    "isPopular": false,
-    "isNew": true,
-    "isTranslation": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/61GVXeNy8gL._SL1050_.jpg",
-    "publisher": "Pagès Editors",
-    "year": 2024,
-    "totalVotes": 0
-  },
-  {
     "id": 7867,
     "title": "La intrusa",
     "author": "Pujadas, Irene",
