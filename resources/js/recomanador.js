@@ -1,11 +1,23 @@
 var tematica, temps, epoca, zona;
+var cat;
 var candidats;
 $().ready(function(){
 	
+	cat = "0";
+	
 	$('#startBtn').click(function(){
-		$('#startDiv').hide();
-		$('#poll').show();
+		start();
 	});
+	
+	if($('#poll0').length){
+		$('#poll0 .btn').click(function(){
+			$('#poll0').hide();
+			$('#poll1').show();
+			
+			cat = $(this).val();
+			console.log(cat);
+		});
+	}
 		
 	$('#poll1 .btn').click(function(){
 		$('#poll1').hide();
@@ -32,9 +44,7 @@ $().ready(function(){
 	});
 	
 	$('#poll4 .btn').click(function(){
-		$('#poll').hide();
-		$('#poll1').show();
-		$('#poll4').hide();
+		$('#poll').hide();		
 		$('#result').show();
 		
 		zona = $(this).val();
@@ -51,7 +61,7 @@ $().ready(function(){
 		
 		$('#result').hide();
 		$('#no-result').hide();
-		$('#poll').show();
+		start();
 	});
 	
 	$('#more').click(function() {
@@ -62,6 +72,18 @@ $().ready(function(){
 		}
 	});
 });
+
+function start() {
+	$('#poll4').hide();
+	if($('#poll0').length){			
+		$('#poll0').show();		
+	} else {
+		$('#poll1').show();			
+	}
+	$('#startDiv').hide();
+	$('#poll').show();
+}
+		
 
 function search() {
 	candidats = list.filter(filter);
@@ -77,10 +99,14 @@ function showResult(){
 }
 
 function filter(el) {
-	//var tematica, 
+	//cat - no sempre
+	//tematica, 
 	//temps, 
 	//epoca, 
 	//zona;
+	
+	if(cat != "0" && !el.cat.includes(cat))
+		return false;
 
 	if(epoca != "0" && el.epoca != epoca){
 		return false;
