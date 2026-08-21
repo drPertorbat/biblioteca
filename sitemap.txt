@@ -570,7 +570,7 @@ https://drpertorbat.github.io/biblioteca/llibres/rosa-dels-vents/l-illa-de-les-t
 https://drpertorbat.github.io/biblioteca/llibres/edicions-secc/cartografia-del-planeta-goblin-.html
 https://drpertorbat.github.io/biblioteca/millor-fantastic/premis/ictineu/ictineu-2025.html
 https://drpertorbat.github.io/biblioteca/llibres/la-segona-periferia/nicolau.html
-https://drpertorbat.github.io/biblioteca/llibres/mai-mes/el-gual-i-la-guilla.html
+https://drpertorbat.github.io/biblioteca/llibres/mai-mes/el-gual-de-la-guilla.html
 https://drpertorbat.github.io/biblioteca/millor-fantastic/top-mensual/2025-Q1.html
 https://drpertorbat.github.io/biblioteca/persones/anna-starobinets.html
 https://drpertorbat.github.io/biblioteca/llibres/rosa-dels-vents/el-jardi-de-les-palmeres.html
@@ -787,3 +787,17 @@ https://drpertorbat.github.io/biblioteca/recomanacions/recomanador-bingo26.html
 https://drpertorbat.github.io/biblioteca/llibres/indomita/veus.html
 https://drpertorbat.github.io/biblioteca/llibres/duna-llibres/condicio-artificial.html
 https://drpertorbat.github.io/biblioteca/llibres/obscura-editorial/tauro.html
+https://drpertorbat.github.io/biblioteca/llibres/males-herbes/cosdivi.html
+https://drpertorbat.github.io/biblioteca/llibres/males-herbes/jo-aixo-ja-no-ho-veure.html
+https://drpertorbat.github.io/biblioteca/llibres/empuries/la-biblioteca-de-la-mitjanit.html
+https://drpertorbat.github.io/biblioteca/llibres/mai-mes/mistborn--historia-secreta.html
+
+https://drpertorbat.github.io/biblioteca/llibres/specula/escafandre-de-vidre.html
+https://drpertorbat.github.io/biblioteca/llibres/manifest/tot-per-a-tothom.html
+https://drpertorbat.github.io/biblioteca/llibres/l-altra-editorial/memoria-d-eco.html
+https://drpertorbat.github.io/biblioteca/llibres/jo-llibre/el-torneig-dels-nuvols.html
+https://drpertorbat.github.io/biblioteca/llibres/proa/les-croniques-del-deu-coix.html
+https://drpertorbat.github.io/biblioteca/llibres/l-altra-tribu/l-ultima-nit-abans-de-perdre-ns.html
+https://drpertorbat.github.io/biblioteca/llibres/club-editor/una-canco-de-pluja.html
+https://drpertorbat.github.io/biblioteca/llibres/bromera/carnivora.html
+https://drpertorbat.github.io/biblioteca/sagues/el-passat-de-la-terra.html
